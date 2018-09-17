@@ -1,0 +1,612 @@
+{
+	"success": true,
+	"message": "OK",
+	"data": [
+		{
+			"style": "navigator",
+			"links": [
+				[
+					"tab1",
+					"推荐"
+				],
+				[
+					"tab2",
+					"包袋"
+				],
+				[
+					"tab3",
+					"配饰"
+				],
+				[
+					"tab4",
+					"女装"
+				],
+				[
+					"tab5",
+					"女鞋"
+				],
+				[
+					"tab6",
+					"男士"
+				]
+			]
+		},
+		{
+			"id": 856,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "0rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cmor1jkom4ts1015qt12el6rij.png",
+			"text": "",
+			"target_url": "/product/index?actid=974",
+			"links": [
+				"/product/index?actid=974"
+			]
+		},
+		{
+			"id": 991,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "0rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cnirqth8clotvmceji4b1kmvj.png",
+			"text": "",
+			"target_url": "/product/choice-discount",
+			"links": [
+				"/product/choice-discount"
+			]
+		},
+		{
+			"id": 974,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "-2rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cn3pa7b917l31er91ivn10it24jj.png",
+			"text": "",
+			"target_url": "/activity/sec-kill?actid=1584,/seller/recommend,/sign/sign,/user/discount-card",
+			"links": [
+				"/activity/sec-kill?actid=1584",
+				"/seller/recommend",
+				"/sign/sign",
+				"/user/discount-card"
+			]
+		},
+		{
+			"id": 997,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "0.533rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cnivnn1vhvb1pav12tr1kasi8tj.png",
+			"text": "",
+			"target_url": "",
+			"links": [
+				""
+			]
+		},
+		{
+			"id": 872,
+			"style": "countdown",
+			"configs": {
+				"text_size": "0.8rem",
+				"text_color": "#333333",
+				"number_size": "0.933rem",
+				"number_color": "#FFFFFF"
+			},
+			"data_url": "",
+			"margin_top": "0rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cnivlmj11q7q1odn19ko1do1q5hj.png,http://img.cdn.aplum.com/o_1cnivm644j9n1agaj561nuq180po.png",
+			"text": "限时折扣仅剩  #H#时#M#分#S#秒",
+			"target_url": "#sitePopupMustShow",
+			"options": {
+				"text": {
+					"background": "http://img.cdn.aplum.com/o_1cnivlmj11q7q1odn19ko1do1q5hj.png",
+					"color": "#333333",
+					"size": "0.8rem"
+				},
+				"number": {
+					"background": "http://img.cdn.aplum.com/o_1cnivm644j9n1agaj561nuq180po.png",
+					"color": "#FFFFFF",
+					"size": "0.933rem"
+				}
+			},
+			"time_left": 123162,
+			"words": [
+				"限时折扣仅剩  ",
+				"H",
+				"时",
+				"M",
+				"分",
+				"S",
+				"秒"
+			]
+		},
+		{
+			"id": 998,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "0rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cnivoecvkt0hqtko1vibpnj.png",
+			"text": "",
+			"target_url": "/activity/summersale-ryy-0915.html,/activity/celebrity-llh-0917.html",
+			"links": [
+				"/activity/summersale-ryy-0915.html",
+				"/activity/celebrity-llh-0917.html"
+			]
+		},
+		{
+			"id": 999,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "0rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cnivpgn3vi8hl11kb5198c1u8qj.png",
+			"text": "",
+			"target_url": "/activity/luxurybrands-llh-0917.html,/activity/fall-ryy-0917.html",
+			"links": [
+				"/activity/luxurybrands-llh-0917.html",
+				"/activity/fall-ryy-0917.html"
+			]
+		},
+		{
+			"id": 960,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cmmosstq1ibbfr81vgd12e3mbej.png",
+			"text": "",
+			"target_url": "/product/personal-page",
+			"links": [
+				"/product/personal-page"
+			]
+		},
+		{
+			"id": 778,
+			"style": "three_grid",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cl6br6ltppgmjc3pl7cb14l2j.gif",
+			"text": "",
+			"target_url": "/product/index?actid=4,/product/index?actid=603,/product/index?cheapLuxury=1",
+			"links": [
+				"/product/index?actid=4",
+				"/product/index?actid=603",
+				"/product/index?cheapLuxury=1"
+			]
+		},
+		{
+			"id": 552,
+			"style": "scroll_products",
+			"configs": {
+				"scroll_item_width": "90%",
+				"scroll_item_margin": "0rem"
+			},
+			"data_url": "/product/union-list?price_range=0-500&api_ver=2&status=onsale&viewFrom=bargain",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1chv27pm512h11gfp1vqr1gkc8vaf.png",
+			"text": "",
+			"target_url": "/product/index?price_range=0-500",
+			"products": [],
+			"options": {
+				"scroll_item_width": "90%",
+				"scroll_item_margin": "0rem"
+			}
+		},
+		{
+			"id": 564,
+			"style": "scroll_products",
+			"configs": null,
+			"data_url": "/product/union-list?cid=0&show_id=28&api_ver=2&status=onsale",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cmfqa7n92fq1g7t1ql6nr32cvj.png",
+			"text": "",
+			"target_url": "/product/index?show_id=28",
+			"products": [],
+			"options": {
+				"scroll_item_width": false,
+				"scroll_item_margin": false
+			}
+		},
+		{
+			"id": 554,
+			"style": "scroll_products",
+			"configs": null,
+			"data_url": "/product/union-list?actid=108&api_ver=2&status=onsale",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cl3lljcj1e8rp8mcm082nappj.png",
+			"text": "",
+			"target_url": "/product/index?actid=108",
+			"products": [],
+			"options": {
+				"scroll_item_width": false,
+				"scroll_item_margin": false
+			}
+		},
+		{
+			"id": 638,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cm2pag2ablt1vs81uv516cv1bfij.jpg",
+			"text": "",
+			"target_url": "/third-party/refa",
+			"links": [
+				"/third-party/refa"
+			]
+		},
+		{
+			"id": 549,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cl3mv18t1vsdeu51bu643814daj.png",
+			"text": "",
+			"target_url": "",
+			"links": [
+				""
+			]
+		},
+		{
+			"id": 550,
+			"style": "scroll_narrow_banners",
+			"configs": {
+				"scroll_item_width": "90%",
+				"scroll_item_margin": "0rem",
+				"scroll_item_height": "10.667rem"
+			},
+			"data_url": "",
+			"margin_top": "0rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cnec00jc1hrhjtnt0mikjh7ij.jpg,http://img.cdn.aplum.com/o_1cnbq38lilji1tjussa1vfc34mj.jpg,http://img.cdn.aplum.com/o_1cn6f8jvirtuob61k5f19k11durj.jpg,http://img.cdn.aplum.com/o_1cn3p8683i3k5e1tfhtpohnbl.png,http://img.cdn.aplum.com/o_1cn1ebt4goh9btd6ktiqo7vbj.jpg,http://img.cdn.aplum.com/o_1cmmusu3e1om83ba1vj3173n1e8sj.jpg,http://img.cdn.aplum.com/o_1cmmpacs31rldt4f160r7obhbij.jpg,http://img.cdn.aplum.com/o_1cmmpafu0ns91td21om511kr10eeo.jpg",
+			"text": "",
+			"target_url": "/page/view?pid=530,/page/view?pid=527,/page/view?pid=529,/page/view?pid=528,/page/view?pid=526,/page/view?pid=524,/page/view?pid=525,/page/view?pid=523",
+			"class": "wide90",
+			"sub_style": "width678",
+			"banners": [
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cnec00jc1hrhjtnt0mikjh7ij.jpg",
+					"link": "/page/view?pid=530"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cnbq38lilji1tjussa1vfc34mj.jpg",
+					"link": "/page/view?pid=527"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cn6f8jvirtuob61k5f19k11durj.jpg",
+					"link": "/page/view?pid=529"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cn3p8683i3k5e1tfhtpohnbl.png",
+					"link": "/page/view?pid=528"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cn1ebt4goh9btd6ktiqo7vbj.jpg",
+					"link": "/page/view?pid=526"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cmmusu3e1om83ba1vj3173n1e8sj.jpg",
+					"link": "/page/view?pid=524"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cmmpacs31rldt4f160r7obhbij.jpg",
+					"link": "/page/view?pid=525"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cmmpafu0ns91td21om511kr10eeo.jpg",
+					"link": "/page/view?pid=523"
+				}
+			],
+			"options": {
+				"scroll_item_width": "90%",
+				"scroll_item_margin": "0rem",
+				"scroll_item_height": "10.667rem"
+			}
+		},
+		{
+			"id": 874,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cl3nuulv11rr6vf15kd1iqd1pihj.png",
+			"text": "",
+			"target_url": "/activity/selection",
+			"links": [
+				"/activity/selection"
+			]
+		},
+		{
+			"id": 878,
+			"style": "selected_topics",
+			"configs": {
+				"scroll_item_width": "45%",
+				"scroll_item_margin": "0rem",
+				"scroll_item_height": "0rem",
+				"numbers_to_show": "4"
+			},
+			"data_url": "",
+			"margin_top": "0rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cl3nibqtouhalj1ku41g0h1fsao.jpg",
+			"text": "",
+			"target_url": "/page/view?pid=514,/page/view?pid=508,/page/view?pid=501,/page/view?pid=502,/page/view?pid=498,/page/view?pid=493",
+			"photos": [
+				[
+					{
+						"name": "Céline经典款或将停产？！",
+						"image": "http://img.cdn.aplum.com/o_1cne4b6do838frq1umv1rmihknm.png",
+						"link": "/product/index?actid=1590"
+					},
+					{
+						"name": "秋日减龄法 卫衣做内搭",
+						"image": "http://img.cdn.aplum.com/o_1cne4m38c1t934j96bg1jtb120sm.png",
+						"link": "/product/index?actid=1591"
+					}
+				],
+				[
+					{
+						"name": "《如懿传》后宫娘娘同款",
+						"image": "http://img.cdn.aplum.com/o_1cn6n194u18btlj09n013pa15hsm.jpg",
+						"link": "/product/index?actid=1572"
+					},
+					{
+						"name": "Dita Von Teese的撩人珠宝",
+						"image": "http://img.cdn.aplum.com/o_1cn8c19hf1joq5qavpj5mu15eam.jpg",
+						"link": "/product/index?actid=1573"
+					}
+				]
+			]
+		},
+		{
+			"id": 551,
+			"style": "scroll_products",
+			"configs": null,
+			"data_url": "/product/union-list?actid=253&api_ver=2&status=onsale",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1chv29lqn1kcm19ufj9tsb81vadf.png",
+			"text": "",
+			"target_url": "/product/index?actid=253",
+			"products": [],
+			"options": {
+				"scroll_item_width": false,
+				"scroll_item_margin": false
+			}
+		},
+		{
+			"id": 561,
+			"style": "scroll_products",
+			"configs": null,
+			"data_url": "/product/union-list?list_code=luxuries&api_ver=2&status=onsale",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1chv2a3811mor1t781pi91tfctlaf.png",
+			"text": "",
+			"target_url": "/product/index?list_code=luxuries",
+			"products": [],
+			"options": {
+				"scroll_item_width": false,
+				"scroll_item_margin": false
+			}
+		},
+		{
+			"id": 557,
+			"style": "scroll_products",
+			"configs": null,
+			"data_url": "/product/union-list?actid=250&api_ver=2&status=onsale",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1chv2ahue2fufltac4klte4ff.png",
+			"text": "",
+			"target_url": "/product/index?actid=250",
+			"products": [],
+			"options": {
+				"scroll_item_width": false,
+				"scroll_item_margin": false
+			}
+		},
+		{
+			"id": 840,
+			"style": "scroll_products",
+			"configs": null,
+			"data_url": "/product/union-list?actid=1379&api_ver=2&status=onsale",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cjqc6ira3bu125t9dibt12bbf.png",
+			"text": "",
+			"target_url": "/product/index?actid=1379",
+			"products": [],
+			"options": {
+				"scroll_item_width": false,
+				"scroll_item_margin": false
+			}
+		},
+		{
+			"id": 556,
+			"style": "scroll_products",
+			"configs": null,
+			"data_url": "/product/union-list?allNew=1&api_ver=2&status=onsale",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1chv2avvbjra1ldr1khe1a1u96jf.png",
+			"text": "",
+			"target_url": "/product/index?allNew=1",
+			"products": [],
+			"options": {
+				"scroll_item_width": false,
+				"scroll_item_margin": false
+			}
+		},
+		{
+			"id": 558,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1chv2c1jg1ovhvmmital7617f9f.png",
+			"text": "",
+			"target_url": "#",
+			"links": [
+				"#"
+			]
+		},
+		{
+			"id": 560,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "0rem",
+			"img_url": "http://img.cdn.aplum.com/o_1clj39t3mq9njfr19chjgh1kt5j.png",
+			"text": "",
+			"target_url": "/product/index?show_id=12,/product/index?cid=55,/product/index?show_id=18\n",
+			"links": [
+				"/product/index?show_id=12",
+				"/product/index?cid=55",
+				"/product/index?show_id=18\n"
+			]
+		},
+		{
+			"id": 559,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "0rem",
+			"img_url": "http://img.cdn.aplum.com/o_1clj3brve701ajd135oup9l09j.png",
+			"text": "",
+			"target_url": "/product/index?show_id=15,/product/index?show_id=1,/product/index?cid=74",
+			"links": [
+				"/product/index?show_id=15",
+				"/product/index?show_id=1",
+				"/product/index?cid=74"
+			]
+		},
+		{
+			"id": 548,
+			"style": "scroll_products",
+			"configs": null,
+			"data_url": "/product/union-list?actid=260&api_ver=2&status=onsale",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1chv2bhfdoamdm5bnnqp4entf.png",
+			"text": "",
+			"target_url": "/product/index?actid=260",
+			"products": [],
+			"options": {
+				"scroll_item_width": false,
+				"scroll_item_margin": false
+			}
+		},
+		{
+			"id": 563,
+			"style": "scroll_products",
+			"configs": null,
+			"data_url": "/product/union-list?actid=1540&api_ver=2&status=onsale",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1chv2eaje1se51bmb1j51mqvvj3f.png",
+			"text": "",
+			"target_url": "/product/index?actid=1540",
+			"products": [],
+			"options": {
+				"scroll_item_width": false,
+				"scroll_item_margin": false
+			}
+		},
+		{
+			"id": 565,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1chv2gd8dqlv1ps31utm1u0j1tf6f.png",
+			"text": "",
+			"target_url": "#",
+			"links": [
+				"#"
+			]
+		},
+		{
+			"id": 566,
+			"style": "scroll_narrow_banners",
+			"configs": {
+				"scroll_item_width": "34%",
+				"scroll_item_margin": "0rem",
+				"scroll_item_height": "10.24rem"
+			},
+			"data_url": "",
+			"margin_top": "0rem",
+			"img_url": "http://img.cdn.aplum.com/o_1cndgrdkh1gsmlcotr2im91t70j.png,http://img.cdn.aplum.com/o_1cn8rp9hbvgjmfm6tg1vt71er9q.png,http://img.cdn.aplum.com/o_1cndgt9vabh946t153qldl19lot.png,http://img.cdn.aplum.com/o_1cn8rp9hcfa11enpjli1v563pes.png,http://img.cdn.aplum.com/o_1cn8rp9hc12ae14721dkf1r4qrg3t.png,http://img.cdn.aplum.com/o_1cn8rp9hc1ii4at4r3v1eaf1vhu.png,http://img.cdn.aplum.com/o_1cn8rp9hc15eo46v1ed1qsnra2v.png,http://img.cdn.aplum.com/o_1cn8rp9hc101ij1pp661j5m145l10.png,http://img.cdn.aplum.com/o_1cn8rp9hcvqa1gk3ot11enh6ah11.png",
+			"text": "",
+			"target_url": "/product/index?bid=284&viewFrom=hotBrand,/product/index?bid=3&viewFrom=hotBrand,/product/index?bid=159&viewFrom=hotBrand,/product/index?bid=68&viewFrom=hotBrand,/product/index?bid=109&viewFrom=hotBrand,/product/index?bid=135&viewFrom=hotBrand,/product/index?bid=327&viewFrom=hotBrand,/product/index?bid=35&viewFrom=hotBrand,/product/index?bid= 59&viewFrom=hotBrand",
+			"class": "wide90",
+			"sub_style": "width360",
+			"banners": [
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cndgrdkh1gsmlcotr2im91t70j.png",
+					"link": "/product/index?bid=284&viewFrom=hotBrand"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cn8rp9hbvgjmfm6tg1vt71er9q.png",
+					"link": "/product/index?bid=3&viewFrom=hotBrand"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cndgt9vabh946t153qldl19lot.png",
+					"link": "/product/index?bid=159&viewFrom=hotBrand"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cn8rp9hcfa11enpjli1v563pes.png",
+					"link": "/product/index?bid=68&viewFrom=hotBrand"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cn8rp9hc12ae14721dkf1r4qrg3t.png",
+					"link": "/product/index?bid=109&viewFrom=hotBrand"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cn8rp9hc1ii4at4r3v1eaf1vhu.png",
+					"link": "/product/index?bid=135&viewFrom=hotBrand"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cn8rp9hc15eo46v1ed1qsnra2v.png",
+					"link": "/product/index?bid=327&viewFrom=hotBrand"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cn8rp9hc101ij1pp661j5m145l10.png",
+					"link": "/product/index?bid=35&viewFrom=hotBrand"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cn8rp9hcvqa1gk3ot11enh6ah11.png",
+					"link": "/product/index?bid= 59&viewFrom=hotBrand"
+				}
+			],
+			"options": {
+				"scroll_item_width": "34%",
+				"scroll_item_margin": "0rem",
+				"scroll_item_height": "10.24rem"
+			}
+		},
+		{
+			"id": 541,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "1.6rem",
+			"img_url": "http://img.cdn.aplum.com/o_1ci6oab5p1pd6b0t3m3fpe15nqf.png",
+			"text": "",
+			"target_url": "/brand/index?noShow=1",
+			"links": [
+				"/brand/index?noShow=1"
+			]
+		},
+		{
+			"id": 593,
+			"style": "banner",
+			"configs": null,
+			"data_url": "",
+			"margin_top": "2.4rem",
+			"img_url": "http://img.cdn.aplum.com/o_1chv2hc13dut42t1mvlfchh16f.png",
+			"text": "",
+			"target_url": "#",
+			"links": [
+				"#"
+			]
+		}
+	]
+}

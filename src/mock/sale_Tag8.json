@@ -1,0 +1,261 @@
+{
+	"success": true,
+	"message": "ok",
+	"data": {
+		"models": [
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					}
+				],
+				"id": 135119,
+				"product_id": 135119,
+				"name": "全新幼童深蓝色卡通超人纯棉T恤 ",
+				"photo_url": "http://img.cdn.aplum.com/o_1c03mau6velcgj3bfm1ks91uluh.jpg-s320",
+				"brand_name": "Stella McCartney",
+				"size": "幼童",
+				"original_price": "998",
+				"sale_price": "298",
+				"discount_price": "238",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "2.4折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "特惠再打8折",
+				"price_text": "直减60元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1c03mau6velcgj3bfm1ks91uluh.jpg-s320",
+				"rate_original": "2.4折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					}
+				],
+				"id": 137855,
+				"product_id": 137855,
+				"name": "全新幼童灰褐色宽松款休闲裤",
+				"photo_url": "http://img.cdn.aplum.com/o_1c151bt4u1c0810eppq11uc45tuh.jpg-s320",
+				"brand_name": "独立设计师",
+				"size": "幼童",
+				"original_price": "780",
+				"sale_price": "298",
+				"discount_price": "238",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "3.1折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "特惠再打8折",
+				"price_text": "直减60元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1c151bt4u1c0810eppq11uc45tuh.jpg-s320",
+				"rate_original": "3.1折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					}
+				],
+				"id": 133553,
+				"product_id": 133553,
+				"name": "全新小童白色网纱坎肩",
+				"photo_url": "http://img.cdn.aplum.com/o_1c5cndc6n5i28jqopt12pitrkh.jpg-s320",
+				"brand_name": "PATRIZIA PEPE",
+				"size": "小童",
+				"original_price": "680",
+				"sale_price": "238",
+				"discount_price": "198",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "2.9折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "特惠再打8折",
+				"price_text": "直减40元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1c5cndc6n5i28jqopt12pitrkh.jpg-s320",
+				"rate_original": "2.9折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					}
+				],
+				"id": 137069,
+				"product_id": 137069,
+				"name": "全新中童灰色俏皮半身裙",
+				"photo_url": "http://img.cdn.aplum.com/o_1c0qspm6fkc4vfd1glr1onj1n2ch.jpg-s320",
+				"brand_name": "MSGM",
+				"size": "中童",
+				"original_price": "880",
+				"sale_price": "298",
+				"discount_price": "238",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "2.7折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "特惠再打8折",
+				"price_text": "直减60元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1c0qspm6fkc4vfd1glr1onj1n2ch.jpg-s320",
+				"rate_original": "2.7折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					}
+				],
+				"id": 136339,
+				"product_id": 136339,
+				"name": "全新中童蓝色基础款牛仔裤",
+				"photo_url": "http://img.cdn.aplum.com/o_1c0lijrsk1is5v6fdm1dmdbjki.jpg-s320",
+				"brand_name": "Emporio Armani",
+				"size": "中童",
+				"original_price": "1980",
+				"sale_price": "438",
+				"discount_price": "358",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "1.8折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "特惠再打8折",
+				"price_text": "直减80元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1c0lijrsk1is5v6fdm1dmdbjki.jpg-s320",
+				"rate_original": "1.8折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					}
+				],
+				"id": 136648,
+				"product_id": 136648,
+				"name": "幼童蓝色卡通图案T恤",
+				"photo_url": "http://img.cdn.aplum.com/o_1c0o9hktgfm2pt71ljjq7e3eh.jpg-s320",
+				"brand_name": "Stella McCartney",
+				"size": "幼童",
+				"original_price": "998",
+				"sale_price": "298",
+				"discount_price": "238",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "2.4折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "特惠再打8折",
+				"price_text": "直减60元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1c0o9hktgfm2pt71ljjq7e3eh.jpg-s320",
+				"rate_original": "2.4折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					}
+				],
+				"id": 135124,
+				"product_id": 135124,
+				"name": "全新大童彩色桃心半身裙",
+				"photo_url": "http://img.cdn.aplum.com/o_1c03ej0l4h1s13geat41q381e47h.jpg-s320",
+				"brand_name": "MSGM",
+				"size": "大童",
+				"original_price": "880",
+				"sale_price": "468",
+				"discount_price": "378",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "4.3折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "特惠再打8折",
+				"price_text": "直减90元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1c03ej0l4h1s13geat41q381e47h.jpg-s320",
+				"rate_original": "4.3折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					}
+				],
+				"id": 136042,
+				"product_id": 136042,
+				"name": "全新中童白色针织高领上衣",
+				"photo_url": "http://img.cdn.aplum.com/o_1c0j0uto8165b12sp1ir81ach1ioah.jpg-s320",
+				"brand_name": "独立设计师",
+				"size": "中童",
+				"original_price": "780",
+				"sale_price": "298",
+				"discount_price": "238",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "3.1折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "特惠再打8折",
+				"price_text": "直减60元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1c0j0uto8165b12sp1ir81ach1ioah.jpg-s320",
+				"rate_original": "3.1折"
+			}
+		],
+		"cache_msg": "0|p|d|c|sh|s|ns|a1540_0|b0|nil",
+		"pager": {
+			"total": 0,
+			"current": 1
+		}
+	}
+}

@@ -1,0 +1,290 @@
+{
+	"success": true,
+	"message": "ok",
+	"data": {
+		"models": [
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1238468,
+				"product_id": 1238468,
+				"name": "全新红白条纹半身裙",
+				"photo_url": "http://img.cdn.aplum.com/o_1cebf4ui735gi271mhp16p2pshh.jpg-s320",
+				"brand_name": "EnC",
+				"size": "S",
+				"original_price": "998",
+				"sale_price": "598",
+				"discount_price": "248",
+				"blackcard_discount": true,
+				"blackcard_price": "238",
+				"origin_discount_text": "2.5折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打4.1折",
+				"price_text": "直减350元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cebf4ui735gi271mhp16p2pshh.jpg-s320",
+				"rate_original": "2.5折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1195141,
+				"product_id": 1195141,
+				"name": "全新灰色钻饰直筒牛仔裤",
+				"photo_url": "http://img.cdn.aplum.com/o_1cbc4eniur5r1j231el51j2i6rrj.jpg-s320",
+				"brand_name": "Armani Exchange",
+				"size": "XXS",
+				"original_price": "1190",
+				"sale_price": "698",
+				"discount_price": "288",
+				"blackcard_discount": true,
+				"blackcard_price": "276",
+				"origin_discount_text": "2.4折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打4.1折",
+				"price_text": "直减410元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cbc4eniur5r1j231el51j2i6rrj.jpg-s320",
+				"rate_original": "2.4折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 2013986,
+				"product_id": 2013986,
+				"name": "黑色简约休闲短裤",
+				"photo_url": "http://img.cdn.aplum.com/o_1cijsgra399ldrg12pb1kvv17l9j.jpg-s320",
+				"brand_name": "BCBG Max Azria",
+				"size": "S",
+				"original_price": "1190",
+				"sale_price": "238",
+				"discount_price": "188",
+				"blackcard_discount": true,
+				"blackcard_price": "180",
+				"origin_discount_text": "1.6折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打7.9折",
+				"price_text": "直减50元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cijsgra399ldrg12pb1kvv17l9j.jpg-s320",
+				"rate_original": "1.6折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 2028285,
+				"product_id": 2028285,
+				"name": "全新黄色条纹圆领T恤",
+				"photo_url": "http://img.cdn.aplum.com/o_1cjkukpdurac1dkr16hmgi024pj.jpg-s320",
+				"brand_name": "Ochirly",
+				"size": "L",
+				"original_price": "339",
+				"sale_price": "198",
+				"discount_price": "168",
+				"blackcard_discount": true,
+				"blackcard_price": "161",
+				"origin_discount_text": "5.0折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打8.5折",
+				"price_text": "直减30元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cjkukpdurac1dkr16hmgi024pj.jpg-s320",
+				"rate_original": "5.0折"
+			},
+			{
+				"tag_list": [],
+				"id": 1289556,
+				"product_id": 1289556,
+				"name": "白色珍珠水钻耳钉",
+				"photo_url": "http://img.cdn.aplum.com/o_1ci4apm5od1t10732eq1kn7v5ig.jpg-s320",
+				"brand_name": "J.ESTINA",
+				"size": "",
+				"original_price": "833",
+				"sale_price": "338",
+				"discount_price": "338",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "4.1折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "",
+				"price_text": "",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1ci4apm5od1t10732eq1kn7v5ig.jpg-s320",
+				"rate_original": "4.1折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1206814,
+				"product_id": 1206814,
+				"name": "浅灰色简约牛仔短裤",
+				"photo_url": "http://img.cdn.aplum.com/o_1cdf3m8m04v17fc4bvrm158li.jpg-s320",
+				"brand_name": "Victoria Beckham",
+				"size": "S",
+				"original_price": "2154",
+				"sale_price": "768",
+				"discount_price": "318",
+				"blackcard_discount": true,
+				"blackcard_price": "305",
+				"origin_discount_text": "1.5折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打4.1折",
+				"price_text": "直减450元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cdf3m8m04v17fc4bvrm158li.jpg-s320",
+				"rate_original": "1.5折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1258004,
+				"product_id": 1258004,
+				"name": "深咖色绒面紧身打底裤",
+				"photo_url": "http://img.cdn.aplum.com/o_1cgjgmvi9oajfuo1f01rvu15lgh.jpg-s320",
+				"brand_name": "BCBG Max Azria",
+				"size": "XXS",
+				"original_price": "1000",
+				"sale_price": "398",
+				"discount_price": "268",
+				"blackcard_discount": true,
+				"blackcard_price": "257",
+				"origin_discount_text": "2.7折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打6.7折",
+				"price_text": "直减130元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cgjgmvi9oajfuo1f01rvu15lgh.jpg-s320",
+				"rate_original": "2.7折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 2110110,
+				"product_id": 2110110,
+				"name": "米黄色蝴蝶结手拿包",
+				"photo_url": "http://img.cdn.aplum.com/o_1cn18nqrmun913811v2m5je3nvc.jpg-s320",
+				"brand_name": "Kate Spade",
+				"size": "",
+				"original_price": "2037",
+				"sale_price": "338",
+				"discount_price": "338",
+				"blackcard_discount": true,
+				"blackcard_price": "324",
+				"origin_discount_text": "1.7折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "",
+				"price_text": "",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cn18nqrmun913811v2m5je3nvc.jpg-s320",
+				"rate_original": "1.7折"
+			}
+		],
+		"cache_msg": "0|p0-500_0|d|c|sh|s|ns|a|b0|nil",
+		"pager": {
+			"total": 0,
+			"current": 1
+		}
+	}
+}

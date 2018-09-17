@@ -1,0 +1,360 @@
+{
+	"success": true,
+	"message": "OK",
+	"data": [
+		{
+			"title": "推荐专区",
+			"type": "common",
+			"alias": "suggestions",
+			"datas": [
+				{
+					"banner": {
+						"src": "http://img.cdn.aplum.com/o_1cgb36asp5446701mkt1rq15ot7.png",
+						"url": "/product/index?actid=260"
+					},
+					"items": [
+						{
+							"name": "Plum小姐精选",
+							"src": "http://img.cdn.aplum.com/o_1chv9t8ub10dqhdo1jkp157r5f07.png",
+							"url": "/product/index?actid=552&viewFrom=suggestion"
+						},
+						{
+							"name": "Vintage",
+							"src": "http://img.cdn.aplum.com/o_1c852mtg18dhg2a1ggdun3r5l7.jpeg",
+							"url": "/product/index?bid=150&viewFrom=suggestion"
+						},
+						{
+							"name": "日本直邮",
+							"src": "http://img.cdn.aplum.com/o_1ca30sgtl1qn5ohjqet1aul1r2r7.png",
+							"url": "/product/index?allJapan=1&viewFrom=suggestion"
+						},
+						{
+							"name": "单肩包",
+							"src": "http://img.cdn.aplum.com/o_1c57tc4k11t0e16hu1mdu1b924ph.png",
+							"url": "/product/index?show_id=10&viewFrom=suggestion"
+						},
+						{
+							"name": "连衣裙",
+							"src": "http://img.cdn.aplum.com/o_1cdep9vnppd4s1cleiqou1df77.png",
+							"url": "/product/index?show_id=21"
+						},
+						{
+							"name": "高跟鞋",
+							"src": "http://img.cdn.aplum.com/o_1cct466uu10vfhd21ior1o0u13gd7.png",
+							"url": "/product/index?show_id=15"
+						},
+						{
+							"name": "手提包",
+							"src": "http://img.cdn.aplum.com/o_1c5aqbfrn1oid1mj3v2dbpv1pcq15.png",
+							"url": "/product/index?show_id=12&viewFrom=suggestion"
+						},
+						{
+							"name": "男装",
+							"src": "http://img.cdn.aplum.com/o_1ci6a6fse73d5qb1va4tdf9tm7.png",
+							"url": "/product/index?show_id=28&viewFrom=suggestion"
+						},
+						{
+							"name": "斜挎包",
+							"src": "http://img.cdn.aplum.com/o_1c57tc4k218f8rm797n1525eu8l.png",
+							"url": "/product/index?show_id=11&viewFrom=suggestion"
+						},
+						{
+							"name": "项链",
+							"src": "http://img.cdn.aplum.com/o_1c57tc4k21hnq1fbf104qlhjba0k.png",
+							"url": "/product/index?show_id=18&viewFrom=suggestion"
+						},
+						{
+							"name": "手表",
+							"src": "http://img.cdn.aplum.com/o_1caie0b7l13s41ene18tp1ss61t2n7.png",
+							"url": "/product/index?show_id=27&viewFrom=suggestion"
+						},
+						{
+							"name": "墨镜",
+							"src": "http://img.cdn.aplum.com/o_1caie25ifubrm531q0l1b2vq5g7.png",
+							"url": "/product/index?show_id=29&viewFrom=suggestion"
+						},
+						{
+							"name": "高性价比",
+							"src": "http://img.cdn.aplum.com/o_1c67d80572fqo5cj67ahnrhdg.png",
+							"url": "/product/index?view_tag=bargain&viewFrom=suggestion"
+						},
+						{
+							"name": "热门单品",
+							"src": "http://img.cdn.aplum.com/o_1c69389kea7s9cm1nap1d401930c.png",
+							"url": "/product/index?view_tag=hot&viewFrom=suggestion"
+						},
+						{
+							"name": "编辑精选",
+							"src": "http://img.cdn.aplum.com/o_1c67d8057g2laslidr1o2vdb1e.png",
+							"url": "/product/index?view_tag=staff_like&viewFrom=suggestion"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "商品分类",
+			"type": "common",
+			"alias": "categories",
+			"datas": [
+				{
+					"title": "衣服",
+					"items": [
+						{
+							"name": "全部衣服",
+							"src": "http://img.cdn.aplum.com/o_1c8cts09p1kqa1ge6h3511a5brqe.png",
+							"url": "/product/index?cid=9"
+						},
+						{
+							"name": "外套",
+							"src": "http://img.cdn.aplum.com/o_1c857bujr11461ftc1h1ffng1pm410.png",
+							"url": "/product/index?show_id=1"
+						},
+						{
+							"name": "上衣",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8c4njha7tdf1kto1mqj17.png",
+							"url": "/product/index?show_id=2"
+						},
+						{
+							"name": "毛衣",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8d1e2mqqq861edv13ff1g.png",
+							"url": "/product/index?show_id=3"
+						},
+						{
+							"name": "针织衫",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8d38011os1lri1tb71hko1h.png",
+							"url": "/product/index?show_id=4"
+						},
+						{
+							"name": "衬衫",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8d44k1ta71rpd9s5pf81f.png",
+							"url": "/product/index?show_id=5"
+						},
+						{
+							"name": "大衣",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8d1h2ad7712st4v0108f1d.png",
+							"url": "/product/index?show_id=6"
+						},
+						{
+							"name": "牛仔裤",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8d6tuedu113d4uvigq18.png",
+							"url": "/product/index?show_id=7"
+						},
+						{
+							"name": "休闲裤",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8c13pl1clt18jm1v5c118110.png",
+							"url": "/product/index?show_id=8"
+						},
+						{
+							"name": "连衣裙",
+							"src": "http://img.cdn.aplum.com/o_1cdeqklla1sej140t6u31plc1u6or.png",
+							"url": "/product/index?show_id=21"
+						},
+						{
+							"name": "半身裙",
+							"src": "http://img.cdn.aplum.com/o_1c5b8gdq535mofr2371dbj14vv11.png",
+							"url": "/product/index?show_id=22"
+						},
+						{
+							"name": "童装",
+							"src": "http://img.cdn.aplum.com/o_1c716jo6msj31hqb1ibl1e3pglbc.png",
+							"url": "/product/index?actid=1540"
+						}
+					]
+				},
+				{
+					"title": "包袋",
+					"items": [
+						{
+							"name": "全部包袋",
+							"src": "http://img.cdn.aplum.com/o_1c858am601e02i6i7fjofcbi71p.png",
+							"url": "/product/index?cid=10"
+						},
+						{
+							"name": "单肩包",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8d186k1g2f17qi136s1uui1i.png",
+							"url": "/product/index?show_id=10"
+						},
+						{
+							"name": "斜挎包",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8ceidr6q1pahckgnci16.png",
+							"url": "/product/index?show_id=11"
+						},
+						{
+							"name": "手提包",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8ce2c1lqd12dmg581nde14.png",
+							"url": "/product/index?show_id=12"
+						},
+						{
+							"name": "手拿包",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8c1m1s14jo13envhf19f12.png",
+							"url": "/product/index?show_id=13"
+						}
+					]
+				},
+				{
+					"title": "鞋靴",
+					"items": [
+						{
+							"name": "全部鞋靴",
+							"src": "http://img.cdn.aplum.com/o_1c858d6eb153fe9gjeq1ld02h8h.png",
+							"url": "/product/index?cid=11"
+						},
+						{
+							"name": "靴子",
+							"src": "http://img.cdn.aplum.com/o_1c582gh86obo8ea1ma21egm1onc.png",
+							"url": "/product/index?show_id=14"
+						},
+						{
+							"name": "高跟鞋",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8ci3o55p1jr41q0e1oa715.png",
+							"url": "/product/index?show_id=15"
+						},
+						{
+							"name": "低跟鞋",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8d117s1q4n1kbk13nnu0g1b.png",
+							"url": "/product/index?show_id=16"
+						},
+						{
+							"name": "休闲鞋",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8c42v9ik1succcnsdj11.png",
+							"url": "/product/index?show_id=17"
+						}
+					]
+				},
+				{
+					"title": "饰品",
+					"items": [
+						{
+							"name": "全部饰品",
+							"src": "http://img.cdn.aplum.com/o_1caidjh6e10vel5o8i41j9htqth.png",
+							"url": "/product/index?cid=12"
+						},
+						{
+							"name": "项链",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8dt532017auf6stn81c.png",
+							"url": "/product/index?show_id=18"
+						},
+						{
+							"name": "手链",
+							"src": "http://img.cdn.aplum.com/o_1c8cts09pk8b1ve1bro1sa41aepf.png",
+							"url": "/product/index?show_id=23"
+						},
+						{
+							"name": "手镯",
+							"src": "http://img.cdn.aplum.com/o_1c8cts09pc2i2kpra26a1q99g.png",
+							"url": "/product/index?show_id=24"
+						},
+						{
+							"name": "戒指",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8dvh91asn1gc87dpk9n19.png",
+							"url": "/product/index?show_id=25"
+						},
+						{
+							"name": "耳饰",
+							"src": "http://img.cdn.aplum.com/o_1c52lqo8c1ustfc51h3e6ph1sn613.png",
+							"url": "/product/index?show_id=20"
+						},
+						{
+							"name": "配饰",
+							"src": "http://img.cdn.aplum.com/o_1c8c5vnvt4kn15dkd0kc1kbqif.png",
+							"url": "/product/index?show_id=26"
+						},
+						{
+							"name": "手表",
+							"src": "http://img.cdn.aplum.com/o_1caidjh6e132ppdq45m15ra6v7i.png",
+							"url": "/product/index?show_id=27"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "常见品牌",
+			"type": "brand",
+			"alias": "cbrands"
+		},
+		{
+			"title": "折扣区间",
+			"type": "common",
+			"alias": "dRanges",
+			"datas": [
+				{
+					"items": [
+						{
+							"name": "3折以下",
+							"src": "http://img.cdn.aplum.com/o_1c53290u99801egr8oah9665i1d.png",
+							"url": "/product/index?discount_range=0-3"
+						},
+						{
+							"name": "3折",
+							"src": "http://img.cdn.aplum.com/o_1c53290u91h7n1kml13bcb8rndc1e.png",
+							"url": "/product/index?discount_range=3-4"
+						},
+						{
+							"name": "4折",
+							"src": "http://img.cdn.aplum.com/o_1c53290u914gcppo1hotlei1adr1f.png",
+							"url": "/product/index?discount_range=4-5"
+						},
+						{
+							"name": "5折",
+							"src": "http://img.cdn.aplum.com/o_1c53290u91shtlt0shd5r2f861g.png",
+							"url": "/product/index?discount_range=5-6"
+						},
+						{
+							"name": "6-7折",
+							"src": "http://img.cdn.aplum.com/o_1c7b0uvtv1p0hk9a71agii1upi8.png",
+							"url": "/product/index?discount_range=6-8"
+						},
+						{
+							"name": "8-9折",
+							"src": "http://img.cdn.aplum.com/o_1c7b0vij81md9ppm1v2kasj1dvdd.png",
+							"url": "/product/index?discount_range=8-10"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "价格区间",
+			"type": "common",
+			"alias": "pRanges",
+			"datas": [
+				{
+					"items": [
+						{
+							"name": "500元以下",
+							"src": "http://img.cdn.aplum.com/o_1c531eqfu1g7qb221mjg1ddt1v2ii.png",
+							"url": "/product/index?price_range=0-500"
+						},
+						{
+							"name": "500-1000元",
+							"src": "http://img.cdn.aplum.com/o_1c531eqft1t7q1llrf646ka15fgh.png",
+							"url": "/product/index?price_range=500-1000"
+						},
+						{
+							"name": "1000-2000元",
+							"src": "http://img.cdn.aplum.com/o_1c531eqfuigvdk6qcdgcc1dl5j.png",
+							"url": "/product/index?price_range=1000-2000"
+						},
+						{
+							"name": "2000-3000元",
+							"src": "http://img.cdn.aplum.com/o_1c531eqfujk616nke901hsv17bik.png",
+							"url": "/product/index?price_range=2000-3000"
+						},
+						{
+							"name": "3000-5000元",
+							"src": "http://img.cdn.aplum.com/o_1c531eqfu8c5155kr4frn1qldl.png",
+							"url": "/product/index?price_range=3000-5000"
+						},
+						{
+							"name": "5000元以上",
+							"src": "http://img.cdn.aplum.com/o_1c531eqfu1m7f14h612jl16guo6km.png",
+							"url": "/product/index?price_range=5000-1000000"
+						}
+					]
+				}
+			]
+		}
+	]
+}

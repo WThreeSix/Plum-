@@ -1,0 +1,309 @@
+{
+	"success": true,
+	"message": "ok",
+	"data": {
+		"models": [
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1193762,
+				"product_id": 1193762,
+				"name": "白色无袖淑女连衣裙",
+				"photo_url": "http://img.cdn.aplum.com/o_1cb9b78v9tu6182kt0ron31sqgj.jpg-s320",
+				"brand_name": "GOELIA",
+				"size": "M",
+				"original_price": "799",
+				"sale_price": "338",
+				"discount_price": "148",
+				"blackcard_discount": true,
+				"blackcard_price": "142",
+				"origin_discount_text": "1.9折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打4.4折",
+				"price_text": "直减190元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cb9b78v9tu6182kt0ron31sqgj.jpg-s320",
+				"rate_original": "1.9折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1227073,
+				"product_id": 1227073,
+				"name": "米白色镂空半身裙",
+				"photo_url": "http://img.cdn.aplum.com/o_1ccv6sdu3lrr6tcgjv4lhhe5f.jpg-s320",
+				"brand_name": "Oasis",
+				"size": "XS",
+				"original_price": "699",
+				"sale_price": "138",
+				"discount_price": "98",
+				"blackcard_discount": true,
+				"blackcard_price": "94",
+				"origin_discount_text": "1.4折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打7.1折",
+				"price_text": "直减40元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1ccv6sdu3lrr6tcgjv4lhhe5f.jpg-s320",
+				"rate_original": "1.4折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1206450,
+				"product_id": 1206450,
+				"name": "浅黄色豹纹坡跟高跟鞋",
+				"photo_url": "http://img.cdn.aplum.com/o_1cdpfhnqvnnt12401gmr1h6q1lfuh.jpg-s320",
+				"brand_name": "STACCATO",
+				"size": "37",
+				"original_price": "1299",
+				"sale_price": "338",
+				"discount_price": "148",
+				"blackcard_discount": true,
+				"blackcard_price": "142",
+				"origin_discount_text": "1.1折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打4.4折",
+				"price_text": "直减190元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cdpfhnqvnnt12401gmr1h6q1lfuh.jpg-s320",
+				"rate_original": "1.1折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1233565,
+				"product_id": 1233565,
+				"name": "多色花纹针织上衣",
+				"photo_url": "http://img.cdn.aplum.com/o_1cdf1dpjd18er1na741hrdm1kkfh.jpg-s320",
+				"brand_name": "ASOS",
+				"size": "M",
+				"original_price": "399",
+				"sale_price": "138",
+				"discount_price": "98",
+				"blackcard_discount": true,
+				"blackcard_price": "94",
+				"origin_discount_text": "2.5折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打7.1折",
+				"price_text": "直减40元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cdf1dpjd18er1na741hrdm1kkfh.jpg-s320",
+				"rate_original": "2.5折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1204491,
+				"product_id": 1204491,
+				"name": "热带风情抹胸短款连衣裙",
+				"photo_url": "http://img.cdn.aplum.com/o_1cdhk5or2m411fn9kmc13vvoqph.jpg-s320",
+				"brand_name": "H&M",
+				"size": "S",
+				"original_price": "349",
+				"sale_price": "168",
+				"discount_price": "98",
+				"blackcard_discount": true,
+				"blackcard_price": "94",
+				"origin_discount_text": "2.8折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打5.8折",
+				"price_text": "直减70元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cdhk5or2m411fn9kmc13vvoqph.jpg-s320",
+				"rate_original": "2.8折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1185054,
+				"product_id": 1185054,
+				"name": "全新咖色竖排扣针织半身裙",
+				"photo_url": "http://img.cdn.aplum.com/o_1cbp23aol14csouc1e4o57b5cmh.jpg-s320",
+				"brand_name": "Moussy",
+				"size": "XS",
+				"original_price": "898",
+				"sale_price": "538",
+				"discount_price": "228",
+				"blackcard_discount": true,
+				"blackcard_price": "218",
+				"origin_discount_text": "2.5折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打4.2折",
+				"price_text": "直减310元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cbp23aol14csouc1e4o57b5cmh.jpg-s320",
+				"rate_original": "2.5折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 241240,
+				"product_id": 241240,
+				"name": "绿色粗纹路披肩",
+				"photo_url": "http://img.cdn.aplum.com/o_1c5sqam3m10v1146g1gbjdugepoh.jpg-s320",
+				"brand_name": "EQ:IQ",
+				"size": "M",
+				"original_price": "1200",
+				"sale_price": "438",
+				"discount_price": "188",
+				"blackcard_discount": true,
+				"blackcard_price": "180",
+				"origin_discount_text": "1.6折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打4.3折",
+				"price_text": "直减250元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1c5sqam3m10v1146g1gbjdugepoh.jpg-s320",
+				"rate_original": "1.6折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 1201284,
+				"product_id": 1201284,
+				"name": "白色印花不规则连衣裙",
+				"photo_url": "http://img.cdn.aplum.com/o_1cdera99p7mau55fc1n08f4lh.jpg-s320",
+				"brand_name": "H&M",
+				"size": "s",
+				"original_price": "299",
+				"sale_price": "138",
+				"discount_price": "98",
+				"blackcard_discount": true,
+				"blackcard_price": "94",
+				"origin_discount_text": "3.3折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打7.1折",
+				"price_text": "直减40元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cdera99p7mau55fc1n08f4lh.jpg-s320",
+				"rate_original": "3.3折"
+			}
+		],
+		"cache_msg": "0|p|d|c|sh|s|ns|a260_0|b0|nil",
+		"pager": {
+			"total": 0,
+			"current": 1
+		}
+	}
+}

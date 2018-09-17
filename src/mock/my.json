@@ -1,0 +1,143 @@
+{
+	"user": {
+		"id": "",
+		"name": "点击登录",
+		"head": "http://img.cdn.aplum.com/o_1c918a3491fur1v29pph1bcp8msm.png",
+		"link": "/site/login",
+		"has_blackcard": 0,
+		"phone_binded": 0,
+		"wechat_binded": 0
+	},
+	"income": {
+		"title": "我的收入",
+		"id": "income",
+		"num": "0.00",
+		"link": "/user/account"
+	},
+	"buyer": {
+		"id": "buyer",
+		"title": "我是买家",
+		"link": "/order/index",
+		"items": [
+			{
+				"id": "all",
+				"name": "全部订单",
+				"link": "/order/index",
+				"img": "http://img.cdn.aplum.com/o_1cjl1loh916st1eoh76l1iv111aif.png",
+				"num": 0
+			},
+			{
+				"id": "buyer_topay",
+				"name": "待付款",
+				"link": "/order/index?status=topay",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4i6ce4eu1u7d15ifcim2f.png",
+				"num": 0
+			},
+			{
+				"id": "buyer_sent",
+				"name": "待收货",
+				"link": "/order/index?status=sent",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4i1dib13qmmpq162t2b02g.png",
+				"num": 0
+			},
+			{
+				"id": "buyer_success",
+				"name": "已完成",
+				"link": "/order/index?status=success",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4j1g801587a9c90p13cg2p.png",
+				"num": 0
+			}
+		]
+	},
+	"seller": {
+		"id": "seller",
+		"title": "我是卖家",
+		"link": "",
+		"items": [
+			{
+				"id": "seller_products",
+				"name": "我的寄卖",
+				"link": "/seller/guide",
+				"num": 0,
+				"img": "http://img.cdn.aplum.com/o_1chnalt4jr2k1b201gkeug21i0m2m.png"
+			},
+			{
+				"id": "seller_recommend",
+				"name": "推荐有礼",
+				"link": "/seller/recommend",
+				"num": 0,
+				"img": "http://img.cdn.aplum.com/o_1chnalt4jolu11jj4q818c859o2l.png"
+			},
+			{
+				"id": "seller_upload",
+				"name": "我要寄卖",
+				"link": "/seller-product/create",
+				"num": 0,
+				"img": "http://img.cdn.aplum.com/o_1chnalt4j23u73m3dl10cm1uam2n.png"
+			}
+		]
+	},
+	"service": {
+		"id": "service",
+		"title": "我的服务",
+		"link": "",
+		"items": [
+			{
+				"id": "service_voucher",
+				"num": 0,
+				"name": "优惠券",
+				"link": "/voucher/index",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4j3sd1abj1bv2l1mok62s.png"
+			},
+			{
+				"id": "service_wishlist",
+				"num": 0,
+				"name": "收藏",
+				"link": "/wishlist/index",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4i1t9d15b1urr2s810nc2k.png"
+			},
+			{
+				"id": "service_discountcard",
+				"num": 0,
+				"name": "黑卡",
+				"link": "/user/discount-card",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4i1vu01mpor6b1e0n14a22i.png"
+			},
+			{
+				"id": "service_history",
+				"num": 0,
+				"name": "最近浏览",
+				"link": "/product/index?history=1",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4jbgu7lh11lg1knog702o.png"
+			},
+			{
+				"id": "service_address",
+				"num": 0,
+				"name": "地址管理",
+				"link": "/addr/index",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4i11l7qscitf19ijf6s2h.png"
+			},
+			{
+				"id": "service_help",
+				"num": 0,
+				"name": "客服",
+				"link": "/help/index",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4i4ic1ctj1dfh7ta7bj2j.png"
+			},
+			{
+				"id": "service_qa",
+				"num": 0,
+				"name": "常见问题",
+				"link": "/help/detail",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4i1sjlapke61j4nm0q2d.png"
+			},
+			{
+				"id": "service_feedback",
+				"num": 0,
+				"name": "意见反馈",
+				"link": "/help/feedback",
+				"img": "http://img.cdn.aplum.com/o_1chnalt4j1kal135pvnom3a1chn2r.png"
+			}
+		]
+	}
+}

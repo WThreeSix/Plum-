@@ -1,0 +1,258 @@
+{
+	"success": true,
+	"message": "ok",
+	"data": {
+		"models": [
+			{
+				"tag_list": [
+					{
+						"type": "active_tag",
+						"color": "#D93644",
+						"text": "限时折扣",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 2033527,
+				"product_id": 2033527,
+				"name": "灰色经典金钉机车手提包",
+				"photo_url": "http://img.cdn.aplum.com/o_1ck6p5rrb1r4i1kil19r9ebvul6h.jpg-s320",
+				"brand_name": "Balenciaga",
+				"size": "",
+				"original_price": "12900",
+				"sale_price": "8820",
+				"discount_price": "6758",
+				"blackcard_discount": true,
+				"blackcard_price": "6487",
+				"origin_discount_text": "5.2折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "http://img.cdn.aplum.com/o_1cngpb4m9k686k01av51spp1soer.png",
+				"formatFrom": "new",
+				"discount_text": "大促再打7.7折",
+				"price_text": "直减2062元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1ck6p5rrb1r4i1kil19r9ebvul6h.jpg-s320",
+				"rate_original": "5.2折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "active_tag",
+						"color": "#D93644",
+						"text": "限时折扣",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 2039487,
+				"product_id": 2039487,
+				"name": "黑色简约链条单肩包",
+				"photo_url": "http://img.cdn.aplum.com/o_1ckf72l3el19f3l1tj7190k1hfbr.jpg-s320",
+				"brand_name": "Miu Miu",
+				"size": "",
+				"original_price": "14600",
+				"sale_price": "5120",
+				"discount_price": "3928",
+				"blackcard_discount": true,
+				"blackcard_price": "3770",
+				"origin_discount_text": "2.7折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "http://img.cdn.aplum.com/o_1cngpb4m9k686k01av51spp1soer.png",
+				"formatFrom": "new",
+				"discount_text": "大促再打7.7折",
+				"price_text": "直减1192元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1ckf72l3el19f3l1tj7190k1hfbr.jpg-s320",
+				"rate_original": "2.7折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					},
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 2040762,
+				"product_id": 2040762,
+				"name": "紫红色绒面链条斜挎包",
+				"photo_url": "http://img.cdn.aplum.com/o_1ckeb0dov11f91afva3p1rvd18i0c.jpg-s320",
+				"brand_name": "Charles&Keith",
+				"size": "",
+				"original_price": "477",
+				"sale_price": "498",
+				"discount_price": "428",
+				"blackcard_discount": true,
+				"blackcard_price": "410",
+				"origin_discount_text": "9.0折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "大促再打8.6折",
+				"price_text": "直减70元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1ckeb0dov11f91afva3p1rvd18i0c.jpg-s320",
+				"rate_original": "9.0折"
+			},
+			{
+				"tag_list": [],
+				"id": 2113845,
+				"product_id": 2113845,
+				"name": "绿色经典穗纹革手提包",
+				"photo_url": "http://img.cdn.aplum.com/o_1cmpjbm0p1apufte1qo71gk86udc.jpg-s320",
+				"brand_name": "LOUIS VUITTON",
+				"size": "",
+				"original_price": "9907",
+				"sale_price": "4338",
+				"discount_price": "4338",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "4.4折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "",
+				"price_text": "",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cmpjbm0p1apufte1qo71gk86udc.jpg-s320",
+				"rate_original": "4.4折"
+			},
+			{
+				"tag_list": [],
+				"id": 2029496,
+				"product_id": 2029496,
+				"name": "茶色经典老花单肩包",
+				"photo_url": "http://img.cdn.aplum.com/FmlPs6QrUeMTjyTV_j-WXawS3TZY-s320",
+				"brand_name": "LOUIS VUITTON",
+				"size": "",
+				"original_price": "6628",
+				"sale_price": "5980",
+				"discount_price": "5980",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "9.0折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "",
+				"price_text": "",
+				"video_frame_url": "http://img.cdn.aplum.com/FmlPs6QrUeMTjyTV_j-WXawS3TZY-s320",
+				"rate_original": "9.0折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "sale_tag",
+						"color": "#DEC495",
+						"text": "特价商品",
+						"url": ""
+					}
+				],
+				"id": 2053920,
+				"product_id": 2053920,
+				"name": "黑色金属扣复古手提包",
+				"photo_url": "http://img.cdn.aplum.com/o_1cl0qk46pjqq1nvq2sp17av7p1c.jpg-s320",
+				"brand_name": "Salvatore Ferragamo",
+				"size": "",
+				"original_price": "15800",
+				"sale_price": "7390",
+				"discount_price": "6658",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "4.2折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "discount",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "特惠再打9.0折",
+				"price_text": "直减732元",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cl0qk46pjqq1nvq2sp17av7p1c.jpg-s320",
+				"rate_original": "4.2折"
+			},
+			{
+				"tag_list": [
+					{
+						"type": "black_tag",
+						"color": "",
+						"text": "",
+						"url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+					}
+				],
+				"id": 2097362,
+				"product_id": 2097362,
+				"name": "黑色菱格纹链条斜挎包",
+				"photo_url": "http://img.cdn.aplum.com/o_1cmi0tjsnl701rpm1o131t9k19v2c.jpg-s320",
+				"brand_name": "DISSONA",
+				"size": "",
+				"original_price": "1990",
+				"sale_price": "598",
+				"discount_price": "598",
+				"blackcard_discount": true,
+				"blackcard_price": "574",
+				"origin_discount_text": "3.0折",
+				"in_wishlist": 0,
+				"status": "onsale",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "",
+				"price_text": "",
+				"video_frame_url": "http://img.cdn.aplum.com/o_1cmi0tjsnl701rpm1o131t9k19v2c.jpg-s320",
+				"rate_original": "3.0折"
+			},
+			{
+				"tag_list": [],
+				"id": 2112728,
+				"product_id": 2112728,
+				"name": "深海军蓝色两用手拿包",
+				"photo_url": "http://img.cdn.aplum.com/FmSmG3eOUMhRim-6nYbxvmhjtveh-s320",
+				"brand_name": "Céline",
+				"size": "",
+				"original_price": "19573",
+				"sale_price": "12380",
+				"discount_price": "12380",
+				"blackcard_discount": false,
+				"blackcard_price": "",
+				"origin_discount_text": "5.1折",
+				"in_wishlist": 0,
+				"status": "sold",
+				"treatment": "wait",
+				"act_img": "",
+				"formatFrom": "new",
+				"discount_text": "",
+				"price_text": "",
+				"video_frame_url": "http://img.cdn.aplum.com/FmSmG3eOUMhRim-6nYbxvmhjtveh-s320",
+				"rate_original": "5.1折"
+			}
+		],
+		"cache_msg": "0|p|d|c|sh|s|ns|a250|b0|nil",
+		"pager": {
+			"total": 0,
+			"current": 1
+		}
+	}
+}
