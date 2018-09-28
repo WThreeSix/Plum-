@@ -68,7 +68,7 @@ class Buycar extends Component {
     componentDidMount(){
         var sum=0;
         for(var i=0; i<this.props.storeTab.buycar.buycarlist.length;i++){
-            sum = this.props.storeTab.buycar.buycarlist[i].pic/1;
+            sum += this.props.storeTab.buycar.buycarlist[i].pic/1;
         }
         this.setState({
             allPrice:sum
