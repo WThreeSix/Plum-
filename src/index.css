@@ -1,5 +1,14 @@
+import "./style/usage/core/reset.scss"
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background: #fff;
+}
+html{
+	font-size: 100px;
+}
+*{
+	background:#fff; 
 }

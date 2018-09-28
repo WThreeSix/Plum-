@@ -1,7 +1,10 @@
-import React,{Component} from 'react'
-// import { Button } from 'antd-mobile'
+import React,{Component,Fragment} from 'react'
+import Index from "../index"
+import SearchContent from "../index/components/searchContent"
+import {Switch,Route,withRouter} from 'react-router-dom'
 import './style.scss'
 import { TabBar } from 'antd-mobile';
+
 import home from '../../assets/iconfont/home.png'
 import homeActive from '../../assets/iconfont/homeActive.png'
 import class1 from '../../assets/iconfont/class.png'
@@ -22,6 +25,7 @@ class Home extends Component{
           fullScreen: false,
         };
       }
+
       render() {
         return (
             <TabBar
@@ -42,9 +46,15 @@ class Home extends Component{
                     selectedTab: 'homeTab',
                   });
                 }}
-              >
-                {/* <Home/> */}
+                onClick={()=>{this.props.history.push("/")}}
+               >
+               <Index />
+               <Switch>
+                   <Route path="/" exact component={Index} />
+                   <Route path="/search" exact component={SearchContent} />
+               </Switch>
               </TabBar.Item>
+               
               <TabBar.Item
                 icon={{ uri: class1 }}
                 selectedIcon={{ uri: classActive }}
@@ -105,4 +115,4 @@ class Home extends Component{
         );
       }
 }
-export default Home
+export default withRouter(Home)

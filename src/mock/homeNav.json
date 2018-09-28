@@ -4,7 +4,7 @@
 	"data": [
 		{
 			"style": "navigator",
-			"links": [
+			"link": [
 				[
 					"tab1",
 					"推荐"
@@ -606,6 +606,27 @@
 			"target_url": "#",
 			"links": [
 				"#"
+			]
+		},
+		{	
+			"id": 903,
+			"banners": [
+				{
+					"photo": "http://img.cdn.aplum.com/o_1co7r6sdk11271mcp11i9vruulam.jpg",
+					"text": "霸屏朋友圈的度假穿搭"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1co7r6agl1n3njjg1g4h1qn8l61m.jpg",
+					"text": "2018秋冬大牌最新款"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cntsbj7mc2kohnhp61s09cm1m.png",
+					"text": "个性酷女孩的秋日穿搭经"
+				},
+				{
+					"photo": "http://img.cdn.aplum.com/o_1cnts6v85106rhm7rid5tn16k9m.png",
+					"text": "承包超模衣橱的人气腰带"
+				}
 			]
 		}
 	]
