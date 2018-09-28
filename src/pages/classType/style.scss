@@ -1,0 +1,26 @@
+body{
+    background:white;
+}
+.am-search {
+    border-bottom: 1px solid #ddd;
+    background:white;
+    z-index: 2;
+
+}
+.am-search-input{
+    background: #eee;
+}  
+.am-tabs-default-bar-underline{
+    height:10% !important;
+    top:0 !important;
+    display: none;
+}
+#m-tabs-1-1,#m-tabs-1-2,#m-tabs-1-3,#m-tabs-1-4,#m-tabs-1-0{
+    height:10% !important;
+}
+.am-tabs-default-bar-tab-active{
+    border-left:1px solid #108ee9 !important;
+}
+.am-tabs-tab-bar-wrap{
+    border-right:1px solid #ddd !important;
+}

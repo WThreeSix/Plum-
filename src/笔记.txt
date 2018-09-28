@@ -1,0 +1,28 @@
+第一步：功能
+
+
+
+
+
+controller.js文件
+ const crypto = require("crypto")
+ const token (req,res,next)=>{
+     let token = 'token' //token与后台写的一致
+    let{signature,echostr,timestamp,nonce} = req.query
+    let mySignature = _genShal([token,nonce,timestamp].json(''))
+    if(signature===mySignature){
+        res.send(echostr)
+    }else{
+        
+    }
+ }
+ const _genShal(str){
+     return crypto.createHash('sha1').update(str).digest('hex')
+ }
+ module.exports {
+     token
+ }
+ 
+ 
+
+第三步：

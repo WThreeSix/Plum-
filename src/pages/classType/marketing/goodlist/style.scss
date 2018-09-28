@@ -1,0 +1,70 @@
+.navList{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid #ddd;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    background: white;
+    top:0;
+    li{
+        line-height: 0.4rem;
+        &:nth-of-type(1){
+            color: #D93644;
+        }
+    }
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:0.4rem;
+    overflow: hidden;
+    div{
+        width: 50%;
+        border: 1px solid #eee;
+    }
+}
+.photo{
+    width: 100%;
+}
+.act-tagactivity{
+    background-color: rgb(217, 54, 68);
+    
+}
+.activity-icons{
+    width: 100%;
+    font-size: 0.1rem;
+    color: white;
+    span:nth-of-type(1){
+        margin-right: 0.05rem;
+        margin-left: 0.1rem;
+    }
+}
+.nameType{
+    font-weight: 300;
+    font-size: 0.1rem;
+    margin-left: 0.1rem;
+}
+.png{
+    width: 0.5rem;
+}
+.product-name{
+    margin-left: 0.1rem;
+}
+.size-info{
+    margin-left: 0.1rem;
+    font-size: 0.1rem;
+    color:gray;
+}
+.pricediscount-price{
+    margin-left: 0.1rem;
+    margin-right: 0.1rem;
+}
+.pricesale-price{
+    margin-right: 0.1rem;
+    font-size: 0.1rem;
+    color:gray;
+}
+.prices-info{
+    margin-bottom: 0.1rem;
+}

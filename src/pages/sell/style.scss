@@ -1,0 +1,36 @@
+.ba{
+    margin: 0px;
+}
+.banner{
+    width: 100%;
+    margin: 0px;
+}
+.infoBtn{
+    display:flex;
+    justify-content: space-around;
+    .Btn{
+        display:flex;
+        flex-direction: column;
+        img{
+            width:40%;
+            margin-left: 17%;
+            margin-top:0.15rem;
+            margin-bottom: 0.15rem;
+        }
+    }
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.15rem;
+}
+.cm-btn{
+    box-shadow: 0px 0.127rem .167rem 0px rgba(77,61,62,0.4);
+    color: #fff;
+    background-color: #4D3D3E;
+    border-color: #4D3D3E;
+    height: 0.4rem;
+    width: 90%;
+    margin-left: 5%;
+    margin-top:0.7rem;
+    text-align: center;
+    line-height: 0.4rem;
+}
+  

@@ -1,0 +1,4581 @@
+{
+    "success": true,
+    "message": "ok",
+    "data": {
+        "1": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2088684,
+                "product_id": 2088684,
+                "name": "黑色经典亮面菱格斜挎包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cld536da139b1qv511tl3g5embc.jpg-s320",
+                "brand_name": "三宅一生",
+                "size": "",
+                "original_price": "6955",
+                "sale_price": "3520",
+                "discount_price": "3520",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "5.1折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1citmekntf5o1hil1q0ektshlkh.jpg-s320",
+                "rate_original": "5.1折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 116171,
+                "product_id": 116171,
+                "name": "浅巧克力色大容量单肩包",
+                "photo_url": "http://img.cdn.aplum.com/o_1bs34q672eib1vcq14bd79077ac.jpg-s320",
+                "brand_name": "Marni",
+                "size": "",
+                "original_price": "2683",
+                "sale_price": "1280",
+                "discount_price": "1280",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "4.8折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1bs34q672eib1vcq14bd79077ac.jpg-s320",
+                "rate_original": "4.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1196088,
+                "product_id": 1196088,
+                "name": "金色月牙花朵点缀胸针",
+                "photo_url": "http://img.cdn.aplum.com/o_1c4lhut7c4to11619og1bn61s6dg.jpg-s320",
+                "brand_name": "AkisWhere",
+                "size": "",
+                "original_price": "4595",
+                "sale_price": "2026",
+                "discount_price": "878",
+                "blackcard_discount": true,
+                "blackcard_price": "842",
+                "origin_discount_text": "1.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打4.3折",
+                "price_text": "直减1148元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c4lhut7c4to11619og1bn61s6dg.jpg-s320",
+                "rate_original": "1.9折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1260568,
+                "product_id": 1260568,
+                "name": "藏蓝色印花V领连体裤",
+                "photo_url": "http://img.cdn.aplum.com/o_1cfscac291h372fn16rb1e5fo32i.jpg-s320",
+                "brand_name": "Max&Co.",
+                "size": "S",
+                "original_price": "2690",
+                "sale_price": "1080",
+                "discount_price": "418",
+                "blackcard_discount": true,
+                "blackcard_price": "401",
+                "origin_discount_text": "1.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.9折",
+                "price_text": "直减662元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cfscac291h372fn16rb1e5fo32i.jpg-s320",
+                "rate_original": "1.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1281985,
+                "product_id": 1281985,
+                "name": "多色轻薄圆点方巾",
+                "photo_url": "http://img.cdn.aplum.com/o_1ce13trarch6v1g10783hfbnck.jpg-s320",
+                "brand_name": "Nina Ricci",
+                "size": "",
+                "original_price": "1000",
+                "sale_price": "398",
+                "discount_price": "278",
+                "blackcard_discount": true,
+                "blackcard_price": "266",
+                "origin_discount_text": "2.8折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打7.0折",
+                "price_text": "直减120元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ce13trarch6v1g10783hfbnck.jpg-s320",
+                "rate_original": "2.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1271054,
+                "product_id": 1271054,
+                "name": "黑色麂皮高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1clg6h84p1c1a1jds1u2v15gvm6k.jpg-s320",
+                "brand_name": "Christian Dior",
+                "size": "37",
+                "original_price": "6900",
+                "sale_price": "2420",
+                "discount_price": "2078",
+                "blackcard_discount": true,
+                "blackcard_price": "1994",
+                "origin_discount_text": "3.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.6折",
+                "price_text": "直减342元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1clg6h84p1c1a1jds1u2v15gvm6k.jpg-s320",
+                "rate_original": "3.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 1141,
+                "product_id": 1141,
+                "name": "银色圆头平底鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1c2h0sdnqra211ljav5q9p1t5vc.jpg-s320",
+                "brand_name": "Stuart Weitzman",
+                "size": "39",
+                "original_price": "3120",
+                "sale_price": "1578",
+                "discount_price": "1578",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "5.1折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "tochoose",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c2h0sdnqra211ljav5q9p1t5vc.jpg-s320",
+                "rate_original": "5.1折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1292531,
+                "product_id": 1292531,
+                "name": "淡黄色鸵鸟皮手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cetes6pkfrrgl1ce916i017ufi.jpg-s320",
+                "brand_name": "Gianni Versace",
+                "size": "",
+                "original_price": "12000",
+                "sale_price": "4220",
+                "discount_price": "3618",
+                "blackcard_discount": true,
+                "blackcard_price": "3473",
+                "origin_discount_text": "3.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.6折",
+                "price_text": "直减602元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cetes6pkfrrgl1ce916i017ufi.jpg-s320",
+                "rate_original": "3.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2036659,
+                "product_id": 2036659,
+                "name": "鲜黄色简约时髦翻盖单肩包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cmpumfs41hfgf836idjf1b0jc.jpg-s320",
+                "brand_name": "Marc by Marc Jacobs",
+                "size": "",
+                "original_price": "3600",
+                "sale_price": "1280",
+                "discount_price": "1280",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cmpumfs41hfgf836idjf1b0jc.jpg-s320",
+                "rate_original": "3.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1244227,
+                "product_id": 1244227,
+                "name": "白色皮革时尚单肩包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cfuthkk7l1s1s6d71315eh1merc.jpg-s320",
+                "brand_name": "FENDI",
+                "size": "",
+                "original_price": "21710",
+                "sale_price": "6520",
+                "discount_price": "2488",
+                "blackcard_discount": true,
+                "blackcard_price": "2388",
+                "origin_discount_text": "1.1折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.8折",
+                "price_text": "直减4032元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cfuthkk7l1s1s6d71315eh1merc.jpg-s320",
+                "rate_original": "1.1折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 1153802,
+                "product_id": 1153802,
+                "name": "白色简约清新手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1c1s5umtd1m3tfk81hgh14qkrl8h.jpg-s320",
+                "brand_name": "Bally",
+                "size": "",
+                "original_price": "5000",
+                "sale_price": "1780",
+                "discount_price": "1780",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c1s5umtd1m3tfk81hgh14qkrl8h.jpg-s320",
+                "rate_original": "3.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1225971,
+                "product_id": 1225971,
+                "name": "深粉色尖头高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1ccsv2ijc15qvmem16hdhi213j0h.jpg-s320",
+                "brand_name": "Tibi",
+                "size": "37",
+                "original_price": "2800",
+                "sale_price": "698",
+                "discount_price": "278",
+                "blackcard_discount": true,
+                "blackcard_price": "266",
+                "origin_discount_text": "1.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打4.0折",
+                "price_text": "直减420元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ccsv2ijc15qvmem16hdhi213j0h.jpg-s320",
+                "rate_original": "1.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1195008,
+                "product_id": 1195008,
+                "name": "绿色麂皮女士高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1c011648meet1n7m1cq5p981hdeh.jpg-s320",
+                "brand_name": "Vivienne Westwood",
+                "size": "38",
+                "original_price": "1200",
+                "sale_price": "668",
+                "discount_price": "268",
+                "blackcard_discount": true,
+                "blackcard_price": "257",
+                "origin_discount_text": "2.2折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打4.0折",
+                "price_text": "直减400元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c011648meet1n7m1cq5p981hdeh.jpg-s320",
+                "rate_original": "2.2折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 1271080,
+                "product_id": 1271080,
+                "name": "拼色条纹气质中性大号单肩包",
+                "photo_url": "http://img.cdn.aplum.com/o_1c96otfrqs0opsg1prl6eju15i.jpg-s320",
+                "brand_name": "3.1 Phillip Lim",
+                "size": "",
+                "original_price": "6115",
+                "sale_price": "4920",
+                "discount_price": "4920",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "8.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c96otfrqs0opsg1prl6eju15i.jpg-s320",
+                "rate_original": "8.0折"
+            },
+            {
+                "tag_list": [],
+                "id": 2041065,
+                "product_id": 2041065,
+                "name": "卡其色编织藤条手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1ck1lhf6s1m6st2513k41ft52q5c.jpg-s320",
+                "brand_name": "Coach",
+                "size": "",
+                "original_price": "4200",
+                "sale_price": "838",
+                "discount_price": "838",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "2.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ck1lhf6s1m6st2513k41ft52q5c.jpg-s320",
+                "rate_original": "2.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2055159,
+                "product_id": 2055159,
+                "name": "白色经典logoT恤",
+                "photo_url": "http://img.cdn.aplum.com/o_1cl3jqtgprm31jds8io6311t6ac.jpg-s320",
+                "brand_name": "Gucci",
+                "size": "M",
+                "original_price": "3188",
+                "sale_price": "2320",
+                "discount_price": "1878",
+                "blackcard_discount": true,
+                "blackcard_price": "1802",
+                "origin_discount_text": "5.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.1折",
+                "price_text": "直减442元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cl3jqtgprm31jds8io6311t6ac.jpg-s320",
+                "rate_original": "5.9折"
+            }
+        ],
+        "2": [
+            {
+                "tag_list": [],
+                "id": 2029166,
+                "product_id": 2029166,
+                "name": "金色复古树叶珍珠胸针",
+                "photo_url": "http://img.cdn.aplum.com/o_1cnr9rfpb12b1p8v1a6ruit1npjc.jpg-s320",
+                "brand_name": "Vintage",
+                "size": "",
+                "original_price": "838",
+                "sale_price": "368",
+                "discount_price": "368",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "4.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cnr9rfpb12b1p8v1a6ruit1npjc.jpg-s320",
+                "rate_original": "4.4折"
+            },
+            {
+                "tag_list": [],
+                "id": 245923,
+                "product_id": 245923,
+                "name": "银色锁链式项链",
+                "photo_url": "http://img.cdn.aplum.com/o_1c7e289re9ri1hqj1vubhjuscvh.jpg-s320",
+                "brand_name": "Vintage",
+                "size": "",
+                "original_price": "650",
+                "sale_price": "298",
+                "discount_price": "298",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "4.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c7e289re9ri1hqj1vubhjuscvh.jpg-s320",
+                "rate_original": "4.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2017747,
+                "product_id": 2017747,
+                "name": "灰色大象皮公文手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cj5hppj8q4m1jp7kvc12r77h.jpg-s320",
+                "brand_name": "Vintage",
+                "size": "",
+                "original_price": "3350",
+                "sale_price": "4020",
+                "discount_price": "1728",
+                "blackcard_discount": true,
+                "blackcard_price": "1658",
+                "origin_discount_text": "5.2折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打4.3折",
+                "price_text": "直减2292元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cj5hppj8q4m1jp7kvc12r77h.jpg-s320",
+                "rate_original": "5.2折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "sale_tag",
+                        "color": "#DEC495",
+                        "text": "特价商品",
+                        "url": ""
+                    }
+                ],
+                "id": 106476,
+                "product_id": 106476,
+                "name": "黑白印花雪纺纽扣连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1c5b6cs09fih1gop1h232851510c.jpg-s320",
+                "brand_name": "Vintage",
+                "size": "XXS",
+                "original_price": "1380",
+                "sale_price": "638",
+                "discount_price": "458",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "特惠再打7.2折",
+                "price_text": "直减180元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c5b6cs09fih1gop1h232851510c.jpg-s320",
+                "rate_original": "3.3折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 1227382,
+                "product_id": 1227382,
+                "name": "60年代镀金色珍珠项链",
+                "photo_url": "http://img.cdn.aplum.com/o_1ccvnihrq1o1ij3ia0r7d115omg.jpg-s320",
+                "brand_name": "Vintage",
+                "size": "",
+                "original_price": "2350",
+                "sale_price": "1020",
+                "discount_price": "1020",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "4.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ccvnihrq1o1ij3ia0r7d115omg.jpg-s320",
+                "rate_original": "4.3折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "sale_tag",
+                        "color": "#DEC495",
+                        "text": "特价商品",
+                        "url": ""
+                    }
+                ],
+                "id": 1194152,
+                "product_id": 1194152,
+                "name": "蓝白条纹针织套装",
+                "photo_url": "http://img.cdn.aplum.com/o_1cbhajea317ipo0n65e4fpc8k11.jpg-s320",
+                "brand_name": "Vintage",
+                "size": "L",
+                "original_price": "5250",
+                "sale_price": "2620",
+                "discount_price": "2108",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "4.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "特惠再打8.0折",
+                "price_text": "直减512元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cbhajea317ipo0n65e4fpc8k11.jpg-s320",
+                "rate_original": "4.0折"
+            },
+            {
+                "tag_list": [],
+                "id": 245928,
+                "product_id": 245928,
+                "name": "镀金色长款毛衣链",
+                "photo_url": "http://img.cdn.aplum.com/o_1c7e2kn68184b1qvu1atf1mtpfk3h.jpg-s320",
+                "brand_name": "Vintage",
+                "size": "",
+                "original_price": "850",
+                "sale_price": "368",
+                "discount_price": "368",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "4.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c7e2kn68184b1qvu1atf1mtpfk3h.jpg-s320",
+                "rate_original": "4.3折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1279940,
+                "product_id": 1279940,
+                "name": "金色玫瑰花复古耳夹",
+                "photo_url": "http://img.cdn.aplum.com/o_1cj3at438shqu56vl18p2ffrg.jpg-s320",
+                "brand_name": "Vintage",
+                "size": "",
+                "original_price": "1600",
+                "sale_price": "3020",
+                "discount_price": "1158",
+                "blackcard_discount": true,
+                "blackcard_price": "1111",
+                "origin_discount_text": "7.2折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.8折",
+                "price_text": "直减1862元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cj3at438shqu56vl18p2ffrg.jpg-s320",
+                "rate_original": "7.2折"
+            }
+        ],
+        "3": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2127409,
+                "product_id": 2127409,
+                "name": "棕灰色帆布时尚单肩包",
+                "photo_url": "http://img.cdn.aplum.com/FjN25FtfVH6d1USLqSDwelaHDQfC-s320",
+                "brand_name": "Anya Hindmarch",
+                "size": "",
+                "original_price": "4339",
+                "sale_price": "1520",
+                "discount_price": "1520",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.5折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FjN25FtfVH6d1USLqSDwelaHDQfC-s320",
+                "rate_original": "3.5折"
+            },
+            {
+                "tag_list": [],
+                "id": 251509,
+                "product_id": 251509,
+                "name": "透明色玻璃简约红酒杯",
+                "photo_url": "http://img.cdn.aplum.com/Fm7ys8JesYwMKSgtr8-taQZBVHMs-s320",
+                "brand_name": "Baccarat",
+                "size": "",
+                "original_price": "1673",
+                "sale_price": "968",
+                "discount_price": "968",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "5.8折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/Fm7ys8JesYwMKSgtr8-taQZBVHMs-s320",
+                "rate_original": "5.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 1272671,
+                "product_id": 1272671,
+                "name": "黑色简约皮质手提包",
+                "photo_url": "http://img.cdn.aplum.com/Fgr1-GFzn66Yc_t8kFwUre7Bfl6r-s320",
+                "brand_name": "Coach",
+                "size": "",
+                "original_price": "4720",
+                "sale_price": "1280",
+                "discount_price": "1280",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "2.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/Fgr1-GFzn66Yc_t8kFwUre7Bfl6r-s320",
+                "rate_original": "2.7折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 1272366,
+                "product_id": 1272366,
+                "name": "拼色斑纹轻薄围巾",
+                "photo_url": "http://img.cdn.aplum.com/FlGrjvGBtxeeKdaq_GTJslNw84Gu-s320",
+                "brand_name": "LOUIS VUITTON",
+                "size": "",
+                "original_price": "7767",
+                "sale_price": "5390",
+                "discount_price": "5390",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "6.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FlGrjvGBtxeeKdaq_GTJslNw84Gu-s320",
+                "rate_original": "6.9折"
+            },
+            {
+                "tag_list": [],
+                "id": 2053352,
+                "product_id": 2053352,
+                "name": "黑色4孔经典钥匙包",
+                "photo_url": "http://img.cdn.aplum.com/FlhftWxvz_tIaYHWao3pAPaJ_tml-s320",
+                "brand_name": "Paul Smith",
+                "size": "",
+                "original_price": "2816",
+                "sale_price": "798",
+                "discount_price": "798",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "2.8折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FlhftWxvz_tIaYHWao3pAPaJ_tml-s320",
+                "rate_original": "2.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 1230297,
+                "product_id": 1230297,
+                "name": "金银双色男士手表",
+                "photo_url": "http://img.cdn.aplum.com/o_1cdrrekj91lse1qp2fjmsoa1vecc.jpg-s320",
+                "brand_name": "Rolex",
+                "size": "腕围17cm; 表盘直径3.5c",
+                "original_price": "72247",
+                "sale_price": "56120",
+                "discount_price": "56120",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "7.8折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cdrrekj91lse1qp2fjmsoa1vecc.jpg-s320",
+                "rate_original": "7.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2127353,
+                "product_id": 2127353,
+                "name": "金色山茶花时尚戒指",
+                "photo_url": "http://img.cdn.aplum.com/FuXEGOGGbyBMjIxW-3YvlOpXVxo--s320",
+                "brand_name": "CHANEL",
+                "size": "",
+                "original_price": "3958",
+                "sale_price": "1420",
+                "discount_price": "1420",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "sendback",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FuXEGOGGbyBMjIxW-3YvlOpXVxo--s320",
+                "rate_original": "3.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2029461,
+                "product_id": 2029461,
+                "name": "黑色圆角拉链长款钱包",
+                "photo_url": "http://img.cdn.aplum.com/FvQVb3g41zGs7GZnfijILWVMg2nT-s320",
+                "brand_name": "CHANEL",
+                "size": "",
+                "original_price": "10679",
+                "sale_price": "10320",
+                "discount_price": "10320",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "9.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FvQVb3g41zGs7GZnfijILWVMg2nT-s320",
+                "rate_original": "9.7折"
+            }
+        ],
+        "4": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2127409,
+                "product_id": 2127409,
+                "name": "棕灰色帆布时尚单肩包",
+                "photo_url": "http://img.cdn.aplum.com/FjN25FtfVH6d1USLqSDwelaHDQfC-s320",
+                "brand_name": "Anya Hindmarch",
+                "size": "",
+                "original_price": "4339",
+                "sale_price": "1520",
+                "discount_price": "1520",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.5折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FjN25FtfVH6d1USLqSDwelaHDQfC-s320",
+                "rate_original": "3.5折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2116446,
+                "product_id": 2116446,
+                "name": "酒红色时尚丝绒链条单肩包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cnbog7uv175m1pus1u8l1iov1jgkh.jpg-s320",
+                "brand_name": "Charles&Keith",
+                "size": "",
+                "original_price": "469",
+                "sale_price": "198",
+                "discount_price": "198",
+                "blackcard_discount": true,
+                "blackcard_price": "190",
+                "origin_discount_text": "4.2折",
+                "in_wishlist": 0,
+                "status": "sold",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cnbog7uv175m1pus1u8l1iov1jgkh.jpg-s320",
+                "rate_original": "4.2折"
+            },
+            {
+                "tag_list": [],
+                "id": 1195728,
+                "product_id": 1195728,
+                "name": "米黄色印花单肩包",
+                "photo_url": "http://img.cdn.aplum.com/o_1ci4b94ah4see0hlr1cnp1em2c.jpg-s320",
+                "brand_name": "Furla",
+                "size": "",
+                "original_price": "2420",
+                "sale_price": "1820",
+                "discount_price": "1820",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "7.5折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ci4b94ah4see0hlr1cnp1em2c.jpg-s320",
+                "rate_original": "7.5折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2101037,
+                "product_id": 2101037,
+                "name": "黑色绗缝真皮单肩包",
+                "photo_url": "http://img.cdn.aplum.com/FmHgwVDLVAdvp53KRg-AVe7M00of-s320",
+                "brand_name": "Jimmy Choo",
+                "size": "",
+                "original_price": "24088",
+                "sale_price": "4820",
+                "discount_price": "4820",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "2.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FmHgwVDLVAdvp53KRg-AVe7M00of-s320",
+                "rate_original": "2.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2029496,
+                "product_id": 2029496,
+                "name": "茶色经典老花单肩包",
+                "photo_url": "http://img.cdn.aplum.com/FmlPs6QrUeMTjyTV_j-WXawS3TZY-s320",
+                "brand_name": "LOUIS VUITTON",
+                "size": "",
+                "original_price": "6628",
+                "sale_price": "5980",
+                "discount_price": "5980",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "9.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FmlPs6QrUeMTjyTV_j-WXawS3TZY-s320",
+                "rate_original": "9.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2123202,
+                "product_id": 2123202,
+                "name": "墨绿色皮革超大单肩包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cnm4oku89dtttiot4qta1f8gi.jpg-s320",
+                "brand_name": "TOD'S",
+                "size": "",
+                "original_price": "8673",
+                "sale_price": "1520",
+                "discount_price": "1448",
+                "blackcard_discount": true,
+                "blackcard_price": "1390",
+                "origin_discount_text": "1.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.5折",
+                "price_text": "直减72元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cnm4oku89dtttiot4qta1f8gi.jpg-s320",
+                "rate_original": "1.7折"
+            },
+            {
+                "tag_list": [],
+                "id": 1280695,
+                "product_id": 1280695,
+                "name": "橙红色皮革线条单肩包",
+                "photo_url": "http://img.cdn.aplum.com/Flx8xh54C-AioW24lzLdvkFmF1KU-s320",
+                "brand_name": "LOEWE",
+                "size": "",
+                "original_price": "4000",
+                "sale_price": "1080",
+                "discount_price": "1080",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "2.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/Flx8xh54C-AioW24lzLdvkFmF1KU-s320",
+                "rate_original": "2.7折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2031260,
+                "product_id": 2031260,
+                "name": "黑色荔枝纹简约单肩包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cjt4c3q61ngj187kh4u1bprketh.jpg-s320",
+                "brand_name": "Meli Melo",
+                "size": "",
+                "original_price": "4900",
+                "sale_price": "3790",
+                "discount_price": "2708",
+                "blackcard_discount": true,
+                "blackcard_price": "2599",
+                "origin_discount_text": "5.5折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打7.1折",
+                "price_text": "直减1082元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cjt4c3q61ngj187kh4u1bprketh.jpg-s320",
+                "rate_original": "5.5折"
+            }
+        ],
+        "5": [
+            {
+                "tag_list": [],
+                "id": 1292506,
+                "product_id": 1292506,
+                "name": "全新明黄色荷叶边V领连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1ci9h1hbv1t4j5411k7n5m6rsh.jpg-s320",
+                "brand_name": "Topshop",
+                "size": "S",
+                "original_price": "342",
+                "sale_price": "298",
+                "discount_price": "298",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "8.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ci9h1hbv1t4j5411k7n5m6rsh.jpg-s320",
+                "rate_original": "8.7折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1205874,
+                "product_id": 1205874,
+                "name": "蓝红条纹性感背心连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1ce8vlrme1mcfr4ui0l1rju1anph.jpg-s320",
+                "brand_name": "Lacoste",
+                "size": "M",
+                "original_price": "890",
+                "sale_price": "438",
+                "discount_price": "178",
+                "blackcard_discount": true,
+                "blackcard_price": "170",
+                "origin_discount_text": "2.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打4.1折",
+                "price_text": "直减260元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ce8vlrme1mcfr4ui0l1rju1anph.jpg-s320",
+                "rate_original": "2.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2110190,
+                "product_id": 2110190,
+                "name": "黑色吊带刺绣连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1cn1a95bs1dfai70vum218fslc.jpg-s320",
+                "brand_name": "Abercrombie&Fitch",
+                "size": "S",
+                "original_price": "648",
+                "sale_price": "198",
+                "discount_price": "188",
+                "blackcard_discount": true,
+                "blackcard_price": "180",
+                "origin_discount_text": "2.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.5折",
+                "price_text": "直减10元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cn1a95bs1dfai70vum218fslc.jpg-s320",
+                "rate_original": "2.9折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1225278,
+                "product_id": 1225278,
+                "name": "蓝黑拼色格纹花纹连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1ce0vovml17k82tcm6fm01v14j.jpg-s320",
+                "brand_name": "JORYA",
+                "size": "M",
+                "original_price": "2580",
+                "sale_price": "898",
+                "discount_price": "348",
+                "blackcard_discount": true,
+                "blackcard_price": "334",
+                "origin_discount_text": "1.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.9折",
+                "price_text": "直减550元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ce0vovml17k82tcm6fm01v14j.jpg-s320",
+                "rate_original": "1.3折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1273619,
+                "product_id": 1273619,
+                "name": "黑色拼接修身连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1chifpbg6ekssnv1c741p9flt4h.jpg-s320",
+                "brand_name": "Ochirly",
+                "size": "S",
+                "original_price": "980",
+                "sale_price": "298",
+                "discount_price": "128",
+                "blackcard_discount": true,
+                "blackcard_price": "122",
+                "origin_discount_text": "1.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打4.3折",
+                "price_text": "直减170元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1chifpbg6ekssnv1c741p9flt4h.jpg-s320",
+                "rate_original": "1.3折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1275207,
+                "product_id": 1275207,
+                "name": "灰色夏日透气连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1cgjf954i181s6av2btn347tmh.jpg-s320",
+                "brand_name": "NAFNAF",
+                "size": "M",
+                "original_price": "750",
+                "sale_price": "368",
+                "discount_price": "198",
+                "blackcard_discount": true,
+                "blackcard_price": "190",
+                "origin_discount_text": "2.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打5.4折",
+                "price_text": "直减170元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cgjf954i181s6av2btn347tmh.jpg-s320",
+                "rate_original": "2.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1282954,
+                "product_id": 1282954,
+                "name": "全新黑色有趣手掌印花连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1ch5bc0q51uqcfnr5fe1ikn1po6j.jpg-s320",
+                "brand_name": "Ochirly",
+                "size": "M",
+                "original_price": "599",
+                "sale_price": "368",
+                "discount_price": "218",
+                "blackcard_discount": true,
+                "blackcard_price": "209",
+                "origin_discount_text": "3.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打5.9折",
+                "price_text": "直减150元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ch5bc0q51uqcfnr5fe1ikn1po6j.jpg-s320",
+                "rate_original": "3.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1262442,
+                "product_id": 1262442,
+                "name": "全新蓝黑拼色简约连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1cgebtc8vrv34svjom1pn284oh.jpg-s320",
+                "brand_name": "SNIDEL",
+                "size": "S",
+                "original_price": "1500",
+                "sale_price": "898",
+                "discount_price": "388",
+                "blackcard_discount": true,
+                "blackcard_price": "372",
+                "origin_discount_text": "2.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打4.3折",
+                "price_text": "直减510元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cgebtc8vrv34svjom1pn284oh.jpg-s320",
+                "rate_original": "2.6折"
+            }
+        ],
+        "6": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2110378,
+                "product_id": 2110378,
+                "name": "黑色简约尖头高跟凉鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1cn3vftshbvfrop1gu81emj14d0k.jpg-s320",
+                "brand_name": "Five Plus",
+                "size": "36",
+                "original_price": "839",
+                "sale_price": "338",
+                "discount_price": "328",
+                "blackcard_discount": true,
+                "blackcard_price": "314",
+                "origin_discount_text": "3.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.7折",
+                "price_text": "直减10元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cn3vftshbvfrop1gu81emj14d0k.jpg-s320",
+                "rate_original": "3.9折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2096487,
+                "product_id": 2096487,
+                "name": "酒红色拼接优雅高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1cm2ihac116061a5ducr10odes4i.jpg-s320",
+                "brand_name": "BeLLE",
+                "size": "39",
+                "original_price": "959",
+                "sale_price": "398",
+                "discount_price": "168",
+                "blackcard_discount": true,
+                "blackcard_price": "161",
+                "origin_discount_text": "1.8折",
+                "in_wishlist": 0,
+                "status": "sold",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打4.2折",
+                "price_text": "直减230元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cm2ihac116061a5ducr10odes4i.jpg-s320",
+                "rate_original": "1.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2046797,
+                "product_id": 2046797,
+                "name": "黑色简约时尚高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1cl0gusc8rlg1g7b147o1ae817q8k.jpg-s320",
+                "brand_name": "ecco",
+                "size": "40",
+                "original_price": "1052",
+                "sale_price": "1180",
+                "discount_price": "698",
+                "blackcard_discount": true,
+                "blackcard_price": "670",
+                "origin_discount_text": "6.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打5.9折",
+                "price_text": "直减482元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cl0gusc8rlg1g7b147o1ae817q8k.jpg-s320",
+                "rate_original": "6.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2095472,
+                "product_id": 2095472,
+                "name": "卡其色鱼嘴粗跟凉鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1cma83njte1brn517om9715ldi.jpg-s320",
+                "brand_name": "Stuart Weitzman",
+                "size": "38",
+                "original_price": "3600",
+                "sale_price": "1080",
+                "discount_price": "928",
+                "blackcard_discount": true,
+                "blackcard_price": "890",
+                "origin_discount_text": "2.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.6折",
+                "price_text": "直减152元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cma83njte1brn517om9715ldi.jpg-s320",
+                "rate_original": "2.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2047863,
+                "product_id": 2047863,
+                "name": "深海军蓝方头时尚高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/Fp0Qzm-hGJSKL5ALaVNyyDAoA5PG-s320",
+                "brand_name": "Maison Margiela",
+                "size": "39",
+                "original_price": "8347",
+                "sale_price": "2980",
+                "discount_price": "2980",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/Fp0Qzm-hGJSKL5ALaVNyyDAoA5PG-s320",
+                "rate_original": "3.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1257987,
+                "product_id": 1257987,
+                "name": "裸色绒面尖头高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1cf9gshvk1ddh1bce7jr1v2a185012.jpg-s320",
+                "brand_name": "Carven",
+                "size": "36",
+                "original_price": "3300",
+                "sale_price": "1180",
+                "discount_price": "458",
+                "blackcard_discount": true,
+                "blackcard_price": "439",
+                "origin_discount_text": "1.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.9折",
+                "price_text": "直减722元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cf9gshvk1ddh1bce7jr1v2a185012.jpg-s320",
+                "rate_original": "1.4折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 117183,
+                "product_id": 117183,
+                "name": "裸色花朵珍珠高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1c5d92dnlcufjuce7bsrq157lh.jpg-s320",
+                "brand_name": "Boutique9",
+                "size": "37",
+                "original_price": "899",
+                "sale_price": "298",
+                "discount_price": "128",
+                "blackcard_discount": true,
+                "blackcard_price": "122",
+                "origin_discount_text": "1.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打4.3折",
+                "price_text": "直减170元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c5d92dnlcufjuce7bsrq157lh.jpg-s320",
+                "rate_original": "1.4折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 249188,
+                "product_id": 249188,
+                "name": "黑红蛇皮纹木头跟高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1c857jpc8i2q1ee11jn18b11i4fh.jpg-s320",
+                "brand_name": "Stella McCartney",
+                "size": "36",
+                "original_price": "5500",
+                "sale_price": "2220",
+                "discount_price": "858",
+                "blackcard_discount": true,
+                "blackcard_price": "823",
+                "origin_discount_text": "1.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.9折",
+                "price_text": "直减1362元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c857jpc8i2q1ee11jn18b11i4fh.jpg-s320",
+                "rate_original": "1.6折"
+            }
+        ],
+        "7": [
+            {
+                "tag_list": [],
+                "id": 2101072,
+                "product_id": 2101072,
+                "name": "趣味拼色帆布手提包",
+                "photo_url": "http://img.cdn.aplum.com/Fgn09HYLUEkHWPySSvn458m2Gg4K-s320",
+                "brand_name": "Bally",
+                "size": "",
+                "original_price": "5438",
+                "sale_price": "638",
+                "discount_price": "638",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "1.2折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/Fgn09HYLUEkHWPySSvn458m2Gg4K-s320",
+                "rate_original": "1.2折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2047067,
+                "product_id": 2047067,
+                "name": "黑色简约抽绳手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1clgffui0jek1uhi1br28h015d4h.jpg-s320",
+                "brand_name": "BVLGARI",
+                "size": "",
+                "original_price": "18000",
+                "sale_price": "7220",
+                "discount_price": "5848",
+                "blackcard_discount": true,
+                "blackcard_price": "5614",
+                "origin_discount_text": "3.2折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.1折",
+                "price_text": "直减1372元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1clgffui0jek1uhi1br28h015d4h.jpg-s320",
+                "rate_original": "3.2折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1279568,
+                "product_id": 1279568,
+                "name": "米色简约旅行手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1chieic2m1evh1ga311r29oft2ac.jpg-s320",
+                "brand_name": "Versace Collection",
+                "size": "",
+                "original_price": "6863",
+                "sale_price": "3420",
+                "discount_price": "1958",
+                "blackcard_discount": true,
+                "blackcard_price": "1879",
+                "origin_discount_text": "2.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打5.7折",
+                "price_text": "直减1462元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1chieic2m1evh1ga311r29oft2ac.jpg-s320",
+                "rate_original": "2.9折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2043630,
+                "product_id": 2043630,
+                "name": "黑色方形经典手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1ckolhong1qd1ujj1favi6q1fklc.jpg-s320",
+                "brand_name": "Gianni Versace",
+                "size": "",
+                "original_price": "8000",
+                "sale_price": "2820",
+                "discount_price": "2158",
+                "blackcard_discount": true,
+                "blackcard_price": "2071",
+                "origin_discount_text": "2.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打7.7折",
+                "price_text": "直减662元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ckolhong1qd1ujj1favi6q1fklc.jpg-s320",
+                "rate_original": "2.7折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1231559,
+                "product_id": 1231559,
+                "name": "黑色方形简约手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1ce3nu5a41gic1mk61rihlon1863j.jpg-s320",
+                "brand_name": "Givenchy",
+                "size": "",
+                "original_price": "10000",
+                "sale_price": "3020",
+                "discount_price": "1158",
+                "blackcard_discount": true,
+                "blackcard_price": "1111",
+                "origin_discount_text": "1.2折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.8折",
+                "price_text": "直减1862元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ce3nu5a41gic1mk61rihlon1863j.jpg-s320",
+                "rate_original": "1.2折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2123805,
+                "product_id": 2123805,
+                "name": "红色简约皮革手提包",
+                "photo_url": "http://img.cdn.aplum.com/FhgAYT7KIO-qMK121X7hhB8rbDvg-s320",
+                "brand_name": "Polo Ralph Lauren",
+                "size": "",
+                "original_price": "4720",
+                "sale_price": "1420",
+                "discount_price": "1420",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FhgAYT7KIO-qMK121X7hhB8rbDvg-s320",
+                "rate_original": "3.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "sale_tag",
+                        "color": "#DEC495",
+                        "text": "特价商品",
+                        "url": ""
+                    }
+                ],
+                "id": 237156,
+                "product_id": 237156,
+                "name": "天蓝色百搭通勤tote手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1c537ceoffd6vrn1h4e1c7s1bfk.jpg-s320",
+                "brand_name": "Coach",
+                "size": "",
+                "original_price": "4500",
+                "sale_price": "3980",
+                "discount_price": "1198",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "2.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "特惠再打3.0折",
+                "price_text": "直减2782元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c537ceoffd6vrn1h4e1c7s1bfk.jpg-s320",
+                "rate_original": "2.7折"
+            },
+            {
+                "tag_list": [],
+                "id": 2108531,
+                "product_id": 2108531,
+                "name": "浅卡其色经典格纹手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cmpp7pbn17vq1vc3d2i17fhbkfh.jpg-s320",
+                "brand_name": "Burberry",
+                "size": "",
+                "original_price": "8205",
+                "sale_price": "3220",
+                "discount_price": "3220",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.9折",
+                "in_wishlist": 0,
+                "status": "sold",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cmpp7pbn17vq1vc3d2i17fhbkfh.jpg-s320",
+                "rate_original": "3.9折"
+            }
+        ],
+        "8": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2116657,
+                "product_id": 2116657,
+                "name": "全新多色条纹羽绒马甲",
+                "photo_url": "http://img.cdn.aplum.com/o_1cnjijcrc1i0nvlo1sna1190derh.jpg-s320",
+                "brand_name": "Tommy Hilfiger",
+                "size": "S",
+                "original_price": "1473",
+                "sale_price": "1038",
+                "discount_price": "988",
+                "blackcard_discount": true,
+                "blackcard_price": "948",
+                "origin_discount_text": "6.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.5折",
+                "price_text": "直减50元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cnjijcrc1i0nvlo1sna1190derh.jpg-s320",
+                "rate_original": "6.7折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1261784,
+                "product_id": 1261784,
+                "name": "暗红色丝绒低跟正装鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1cfpq6veon7dfh51138110u1jlgh.jpg-s320",
+                "brand_name": "Jimmy Choo",
+                "size": "40.5",
+                "original_price": "6300",
+                "sale_price": "2220",
+                "discount_price": "858",
+                "blackcard_discount": true,
+                "blackcard_price": "823",
+                "origin_discount_text": "1.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.9折",
+                "price_text": "直减1362元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cfpq6veon7dfh51138110u1jlgh.jpg-s320",
+                "rate_original": "1.4折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2109915,
+                "product_id": 2109915,
+                "name": "男士白色休闲衬衫",
+                "photo_url": "http://img.cdn.aplum.com/o_1cmkdd1ebp2b11sl1akf1edg1vnh.jpg-s320",
+                "brand_name": "I'm David",
+                "size": "L",
+                "original_price": "598",
+                "sale_price": "238",
+                "discount_price": "208",
+                "blackcard_discount": true,
+                "blackcard_price": "199",
+                "origin_discount_text": "3.5折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.7折",
+                "price_text": "直减30元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cmkdd1ebp2b11sl1akf1edg1vnh.jpg-s320",
+                "rate_original": "3.5折"
+            },
+            {
+                "tag_list": [],
+                "id": 2053352,
+                "product_id": 2053352,
+                "name": "黑色4孔经典钥匙包",
+                "photo_url": "http://img.cdn.aplum.com/FlhftWxvz_tIaYHWao3pAPaJ_tml-s320",
+                "brand_name": "Paul Smith",
+                "size": "",
+                "original_price": "2816",
+                "sale_price": "798",
+                "discount_price": "798",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "2.8折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FlhftWxvz_tIaYHWao3pAPaJ_tml-s320",
+                "rate_original": "2.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 1230297,
+                "product_id": 1230297,
+                "name": "金银双色男士手表",
+                "photo_url": "http://img.cdn.aplum.com/o_1cdrrekj91lse1qp2fjmsoa1vecc.jpg-s320",
+                "brand_name": "Rolex",
+                "size": "腕围17cm; 表盘直径3.5c",
+                "original_price": "72247",
+                "sale_price": "56120",
+                "discount_price": "56120",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "7.8折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cdrrekj91lse1qp2fjmsoa1vecc.jpg-s320",
+                "rate_original": "7.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2089111,
+                "product_id": 2089111,
+                "name": "全新男士米黄色针织毛衣",
+                "photo_url": "http://img.cdn.aplum.com/o_1clld72c51lii6g238o37k1di4j.jpg-s320",
+                "brand_name": "izzue",
+                "size": "S",
+                "original_price": "899",
+                "sale_price": "498",
+                "discount_price": "438",
+                "blackcard_discount": true,
+                "blackcard_price": "420",
+                "origin_discount_text": "4.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.8折",
+                "price_text": "直减60元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1clld72c51lii6g238o37k1di4j.jpg-s320",
+                "rate_original": "4.9折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2039114,
+                "product_id": 2039114,
+                "name": "男士米白色经典豆豆鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1ck97fle6qd0m0q1okdibu1meck.jpg-s320",
+                "brand_name": "TOD'S",
+                "size": "40",
+                "original_price": "3049",
+                "sale_price": "1820",
+                "discount_price": "1398",
+                "blackcard_discount": true,
+                "blackcard_price": "1342",
+                "origin_discount_text": "4.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打7.7折",
+                "price_text": "直减422元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ck97fle6qd0m0q1okdibu1meck.jpg-s320",
+                "rate_original": "4.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2099063,
+                "product_id": 2099063,
+                "name": "黑色字母草编帆布鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1cmpfgrgq4n716b81mh51lgs143kc.jpg-s320",
+                "brand_name": "Alexander McQueen",
+                "size": "45",
+                "original_price": "3250",
+                "sale_price": "1020",
+                "discount_price": "968",
+                "blackcard_discount": true,
+                "blackcard_price": "929",
+                "origin_discount_text": "3.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.5折",
+                "price_text": "直减52元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cmpfgrgq4n716b81mh51lgs143kc.jpg-s320",
+                "rate_original": "3.0折"
+            }
+        ],
+        "9": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2111338,
+                "product_id": 2111338,
+                "name": "黑色勾花小巧链条斜挎包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cl161e11dta3l843alta1t7nh.jpg-s320",
+                "brand_name": "ASOBIO",
+                "size": "",
+                "original_price": "450",
+                "sale_price": "168",
+                "discount_price": "168",
+                "blackcard_discount": true,
+                "blackcard_price": "161",
+                "origin_discount_text": "3.7折",
+                "in_wishlist": 0,
+                "status": "sold",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cl161e11dta3l843alta1t7nh.jpg-s320",
+                "rate_original": "3.7折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2050752,
+                "product_id": 2050752,
+                "name": "紫红色简约小巧斜挎包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cl3mb7vk1mc2169kiuglgh183ch.jpg-s320",
+                "brand_name": "KENDALL + KYLIE",
+                "size": "",
+                "original_price": "1300",
+                "sale_price": "638",
+                "discount_price": "528",
+                "blackcard_discount": true,
+                "blackcard_price": "506",
+                "origin_discount_text": "4.1折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.3折",
+                "price_text": "直减110元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cl3mb7vk1mc2169kiuglgh183ch.jpg-s320",
+                "rate_original": "4.1折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2050723,
+                "product_id": 2050723,
+                "name": "金色迷你链条斜挎包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cl3d8dhojir18il1l5h1qmr1qg8h.jpg-s320",
+                "brand_name": "Salvatore Ferragamo",
+                "size": "",
+                "original_price": "5854",
+                "sale_price": "3820",
+                "discount_price": "3098",
+                "blackcard_discount": true,
+                "blackcard_price": "2974",
+                "origin_discount_text": "5.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.1折",
+                "price_text": "直减722元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cl3d8dhojir18il1l5h1qmr1qg8h.jpg-s320",
+                "rate_original": "5.3折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2055143,
+                "product_id": 2055143,
+                "name": "红色皮革卡通斜挎包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cl3jpl4gdka1rdta0k15hf1pekc.jpg-s320",
+                "brand_name": "Anya Hindmarch",
+                "size": "",
+                "original_price": "4720",
+                "sale_price": "2820",
+                "discount_price": "2820",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "6.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cl3jpl4gdka1rdta0k15hf1pekc.jpg-s320",
+                "rate_original": "6.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2107939,
+                "product_id": 2107939,
+                "name": "黑色皮革钱包式斜挎包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cn96dc5qf4gdbran330895vh.jpg-s320",
+                "brand_name": "Miu Miu",
+                "size": "",
+                "original_price": "4899",
+                "sale_price": "1980",
+                "discount_price": "1888",
+                "blackcard_discount": true,
+                "blackcard_price": "1812",
+                "origin_discount_text": "3.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.5折",
+                "price_text": "直减92元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cn96dc5qf4gdbran330895vh.jpg-s320",
+                "rate_original": "3.9折"
+            },
+            {
+                "tag_list": [],
+                "id": 2119175,
+                "product_id": 2119175,
+                "name": "玫红色时尚荔枝纹斜挎包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cnqu42odjl81ll91o5n18jsvmgc.jpg-s320",
+                "brand_name": "Kate Spade",
+                "size": "",
+                "original_price": "1200",
+                "sale_price": "268",
+                "discount_price": "268",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "2.2折",
+                "in_wishlist": 0,
+                "status": "sold",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cnqu42odjl81ll91o5n18jsvmgc.jpg-s320",
+                "rate_original": "2.2折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2113369,
+                "product_id": 2113369,
+                "name": "白色简约迷你斜挎包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cn8lh5gcqgk1gh914lvd511pa5c.jpg-s320",
+                "brand_name": "Agnes b",
+                "size": "",
+                "original_price": "1900",
+                "sale_price": "698",
+                "discount_price": "668",
+                "blackcard_discount": true,
+                "blackcard_price": "641",
+                "origin_discount_text": "3.5折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.6折",
+                "price_text": "直减30元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cn8lh5gcqgk1gh914lvd511pa5c.jpg-s320",
+                "rate_original": "3.5折"
+            },
+            {
+                "tag_list": [],
+                "id": 2113659,
+                "product_id": 2113659,
+                "name": "裸粉色荔枝纹斜挎包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cn3iud5l1ql3163k10tg41ht9ah.jpg-s320",
+                "brand_name": "MULBERRY",
+                "size": "",
+                "original_price": "8222",
+                "sale_price": "6020",
+                "discount_price": "6020",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "7.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cn3iud5l1ql3163k10tg41ht9ah.jpg-s320",
+                "rate_original": "7.3折"
+            }
+        ],
+        "10": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2112061,
+                "product_id": 2112061,
+                "name": "银色四叶草吊坠项链",
+                "photo_url": "http://img.cdn.aplum.com/o_1cn93qm5u1787t1t5fd2t3pr5h.jpg-s320",
+                "brand_name": "Swarovski",
+                "size": "",
+                "original_price": "990",
+                "sale_price": "398",
+                "discount_price": "398",
+                "blackcard_discount": true,
+                "blackcard_price": "382",
+                "origin_discount_text": "3.8折",
+                "in_wishlist": 0,
+                "status": "sold",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cn93qm5u1787t1t5fd2t3pr5h.jpg-s320",
+                "rate_original": "3.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 241789,
+                "product_id": 241789,
+                "name": "深粉色碧玺项链",
+                "photo_url": "http://img.cdn.aplum.com/o_1c5qe17mc20h11gitjs1e0v1on0h.jpg-s320",
+                "brand_name": "玺悦熠辉",
+                "size": "",
+                "original_price": "6800",
+                "sale_price": "4220",
+                "discount_price": "4220",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "6.2折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c5qe17mc20h11gitjs1e0v1on0h.jpg-s320",
+                "rate_original": "6.2折"
+            },
+            {
+                "tag_list": [],
+                "id": 1209550,
+                "product_id": 1209550,
+                "name": "初次系列宫廷风粉紫色颈环",
+                "photo_url": "http://img.cdn.aplum.com/o_1cl0bli4g1j3ej9t1hqm1b411v3tc.jpg-s320",
+                "brand_name": "CHAY",
+                "size": "",
+                "original_price": "498",
+                "sale_price": "398",
+                "discount_price": "398",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "8.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cl0bli4g1j3ej9t1hqm1b411v3tc.jpg-s320",
+                "rate_original": "8.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2090065,
+                "product_id": 2090065,
+                "name": "银色双C标志莱茵石项链",
+                "photo_url": "http://img.cdn.aplum.com/FrXioVPrTZjnvujOCQHGUTw7xIbd-s320",
+                "brand_name": "CHANEL",
+                "size": "",
+                "original_price": "4720",
+                "sale_price": "2620",
+                "discount_price": "2620",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "5.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FrXioVPrTZjnvujOCQHGUTw7xIbd-s320",
+                "rate_original": "5.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2048890,
+                "product_id": 2048890,
+                "name": "银色圆环黑色吊坠项圈",
+                "photo_url": "http://img.cdn.aplum.com/o_1ckhc1dkbj4k10d618vg11lo1pse13.jpg-s320",
+                "brand_name": "Marc by Marc Jacobs",
+                "size": "",
+                "original_price": "2200",
+                "sale_price": "1080",
+                "discount_price": "1080",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "4.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ckhc1dkbj4k10d618vg11lo1pse13.jpg-s320",
+                "rate_original": "4.9折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "sale_tag",
+                        "color": "#DEC495",
+                        "text": "特价商品",
+                        "url": ""
+                    }
+                ],
+                "id": 2121664,
+                "product_id": 2121664,
+                "name": "金色LOGO吊坠项链",
+                "photo_url": "http://img.cdn.aplum.com/o_1cn1gvsclkj3145e1th111c51me9c.jpg-s320",
+                "brand_name": "Christian Dior",
+                "size": "",
+                "original_price": "2200",
+                "sale_price": "568",
+                "discount_price": "518",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "2.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "特惠再打9.1折",
+                "price_text": "直减50元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cn1gvsclkj3145e1th111c51me9c.jpg-s320",
+                "rate_original": "2.4折"
+            },
+            {
+                "tag_list": [],
+                "id": 2038358,
+                "product_id": 2038358,
+                "name": "海军蓝色透明项链",
+                "photo_url": "http://img.cdn.aplum.com/FreX1kxSwLN24l3eVeCmrX7E08OU-s320",
+                "brand_name": "LOUIS VUITTON",
+                "size": "",
+                "original_price": "923",
+                "sale_price": "868",
+                "discount_price": "868",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "9.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FreX1kxSwLN24l3eVeCmrX7E08OU-s320",
+                "rate_original": "9.4折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2114482,
+                "product_id": 2114482,
+                "name": "棕色小熊吊坠项链",
+                "photo_url": "http://img.cdn.aplum.com/o_1cn8pvqe016pqpma1u9our5h9cc.jpg-s320",
+                "brand_name": "Swarovski",
+                "size": "",
+                "original_price": "1024",
+                "sale_price": "398",
+                "discount_price": "378",
+                "blackcard_discount": true,
+                "blackcard_price": "362",
+                "origin_discount_text": "3.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.5折",
+                "price_text": "直减20元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cn8pvqe016pqpma1u9our5h9cc.jpg-s320",
+                "rate_original": "3.7折"
+            }
+        ],
+        "11": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2035360,
+                "product_id": 2035360,
+                "name": "白色方形表盘腕表",
+                "photo_url": "http://img.cdn.aplum.com/o_1ck9id0i7uqd1b8o1ec816ttc6hc.jpg-s320",
+                "brand_name": "Guess",
+                "size": "",
+                "original_price": "1259",
+                "sale_price": "998",
+                "discount_price": "768",
+                "blackcard_discount": true,
+                "blackcard_price": "737",
+                "origin_discount_text": "6.1折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打7.7折",
+                "price_text": "直减230元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ck9id0i7uqd1b8o1ec816ttc6hc.jpg-s320",
+                "rate_original": "6.1折"
+            },
+            {
+                "tag_list": [],
+                "id": 2055548,
+                "product_id": 2055548,
+                "name": "男士金属银色简约手表",
+                "photo_url": "http://img.cdn.aplum.com/o_1cl35ke641qig11501sb215qvc97c.jpg-s320",
+                "brand_name": "TISSOT",
+                "size": "",
+                "original_price": "4600",
+                "sale_price": "1180",
+                "discount_price": "1180",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "2.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cl35ke641qig11501sb215qvc97c.jpg-s320",
+                "rate_original": "2.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "sale_tag",
+                        "color": "#DEC495",
+                        "text": "特价商品",
+                        "url": ""
+                    }
+                ],
+                "id": 1284657,
+                "product_id": 1284657,
+                "name": "金色方形表盘水钻手表",
+                "photo_url": "http://img.cdn.aplum.com/o_1chv1rskgh1g1bq12u91fvl1u3sg.jpg-s320",
+                "brand_name": "Avon",
+                "size": "",
+                "original_price": "2000",
+                "sale_price": "1280",
+                "discount_price": "778",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "特惠再打6.1折",
+                "price_text": "直减502元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1chv1rskgh1g1bq12u91fvl1u3sg.jpg-s320",
+                "rate_original": "3.9折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2037302,
+                "product_id": 2037302,
+                "name": "灰色表带简约腕表",
+                "photo_url": "http://img.cdn.aplum.com/o_1ckf4ffdoa3e196e1cbh3n1d2vh.jpg-s320",
+                "brand_name": "ANNE KLEIN",
+                "size": "",
+                "original_price": "571",
+                "sale_price": "438",
+                "discount_price": "378",
+                "blackcard_discount": true,
+                "blackcard_price": "362",
+                "origin_discount_text": "6.3折",
+                "in_wishlist": 0,
+                "status": "sold",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.6折",
+                "price_text": "直减60元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ckf4ffdoa3e196e1cbh3n1d2vh.jpg-s320",
+                "rate_original": "6.3折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2056000,
+                "product_id": 2056000,
+                "name": "深棕色简约时尚手表",
+                "photo_url": "http://img.cdn.aplum.com/o_1cn15mi9l16uv1spmj6p1acb1m0gk.jpg-s320",
+                "brand_name": "MIDO",
+                "size": "",
+                "original_price": "5600",
+                "sale_price": "1980",
+                "discount_price": "1888",
+                "blackcard_discount": true,
+                "blackcard_price": "1812",
+                "origin_discount_text": "3.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.5折",
+                "price_text": "直减92元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cn15mi9l16uv1spmj6p1acb1m0gk.jpg-s320",
+                "rate_original": "3.4折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2127328,
+                "product_id": 2127328,
+                "name": "银色简约气质手表",
+                "photo_url": "http://img.cdn.aplum.com/FqQDOigXhTkvjC85SXup80oWrKYs-s320",
+                "brand_name": "Hermès",
+                "size": "",
+                "original_price": "26542",
+                "sale_price": "4390",
+                "discount_price": "4390",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "1.7折",
+                "in_wishlist": 0,
+                "status": "sold",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FqQDOigXhTkvjC85SXup80oWrKYs-s320",
+                "rate_original": "1.7折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 139906,
+                "product_id": 139906,
+                "name": " 银色不锈钢运动手表",
+                "photo_url": "http://img.cdn.aplum.com/FvBmJLN_z3IBA6GJ-3TiTAa7AYd5-s320",
+                "brand_name": "Swarovski",
+                "size": "",
+                "original_price": "5718",
+                "sale_price": "5020",
+                "discount_price": "5020",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "8.8折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FvBmJLN_z3IBA6GJ-3TiTAa7AYd5-s320",
+                "rate_original": "8.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2099126,
+                "product_id": 2099126,
+                "name": "玫瑰金色简约两针腕表",
+                "photo_url": "http://img.cdn.aplum.com/o_1cmi2lhjb1a5n1vdu1nlei08vm3g.jpg-s320",
+                "brand_name": "Calvin Klein",
+                "size": "",
+                "original_price": "2265",
+                "sale_price": "568",
+                "discount_price": "538",
+                "blackcard_discount": true,
+                "blackcard_price": "516",
+                "origin_discount_text": "2.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.5折",
+                "price_text": "直减30元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cmi2lhjb1a5n1vdu1nlei08vm3g.jpg-s320",
+                "rate_original": "2.4折"
+            }
+        ],
+        "12": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2092052,
+                "product_id": 2092052,
+                "name": "红色复古潮流墨镜",
+                "photo_url": "http://img.cdn.aplum.com/o_1cm4brnkk7vg17bh16ipf5ngruh.jpg-s320",
+                "brand_name": "TOD'S",
+                "size": "",
+                "original_price": "3343",
+                "sale_price": "1620",
+                "discount_price": "1398",
+                "blackcard_discount": true,
+                "blackcard_price": "1342",
+                "origin_discount_text": "4.2折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.6折",
+                "price_text": "直减222元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cm4brnkk7vg17bh16ipf5ngruh.jpg-s320",
+                "rate_original": "4.2折"
+            },
+            {
+                "tag_list": [],
+                "id": 2020732,
+                "product_id": 2020732,
+                "name": "深棕色复古时尚墨镜",
+                "photo_url": "http://img.cdn.aplum.com/o_1ciobst2l80n1clg13fm14d11c5uc.jpg-s320",
+                "brand_name": "Diesel",
+                "size": "",
+                "original_price": "990",
+                "sale_price": "540",
+                "discount_price": "540",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "5.5折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ciobst2l80n1clg13fm14d11c5uc.jpg-s320",
+                "rate_original": "5.5折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 1248728,
+                "product_id": 1248728,
+                "name": "黑色菱格纹时尚墨镜",
+                "photo_url": "http://img.cdn.aplum.com/FrRUfCDJcraaw-paUfMmCsawa8tG-s320",
+                "brand_name": "CHANEL",
+                "size": "",
+                "original_price": "5101",
+                "sale_price": "4290",
+                "discount_price": "4290",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "8.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FrRUfCDJcraaw-paUfMmCsawa8tG-s320",
+                "rate_original": "8.4折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2017127,
+                "product_id": 2017127,
+                "name": "彩色边框休闲墨镜",
+                "photo_url": "http://img.cdn.aplum.com/o_1ciu79lm1p789ov9a11cds19as1b.jpg-s320",
+                "brand_name": "Ray-Ban",
+                "size": "",
+                "original_price": "1200",
+                "sale_price": "468",
+                "discount_price": "328",
+                "blackcard_discount": true,
+                "blackcard_price": "314",
+                "origin_discount_text": "2.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打7.0折",
+                "price_text": "直减140元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ciu79lm1p789ov9a11cds19as1b.jpg-s320",
+                "rate_original": "2.7折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "sale_tag",
+                        "color": "#DEC495",
+                        "text": "特价商品",
+                        "url": ""
+                    }
+                ],
+                "id": 2047292,
+                "product_id": 2047292,
+                "name": "墨绿色简约时尚墨镜",
+                "photo_url": "http://img.cdn.aplum.com/o_1cl0jj8b41f8t1fjqtli1jsm1u8tc.jpg-s320",
+                "brand_name": "GENTLE MONSTER",
+                "size": "",
+                "original_price": "1680",
+                "sale_price": "1820",
+                "discount_price": "1648",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "9.8折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "特惠再打9.1折",
+                "price_text": "直减172元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cl0jj8b41f8t1fjqtli1jsm1u8tc.jpg-s320",
+                "rate_original": "9.8折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2044289,
+                "product_id": 2044289,
+                "name": "棕色简约时尚大框墨镜",
+                "photo_url": "http://img.cdn.aplum.com/o_1cdeumt2t13fb1kkaugkvjd1v9mf.jpg-s320",
+                "brand_name": "FENDI",
+                "size": "",
+                "original_price": "2980",
+                "sale_price": "1190",
+                "discount_price": "918",
+                "blackcard_discount": true,
+                "blackcard_price": "881",
+                "origin_discount_text": "3.1折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打7.7折",
+                "price_text": "直减272元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cdeumt2t13fb1kkaugkvjd1v9mf.jpg-s320",
+                "rate_original": "3.1折"
+            },
+            {
+                "tag_list": [],
+                "id": 2093276,
+                "product_id": 2093276,
+                "name": "海军蓝紫色时尚墨镜",
+                "photo_url": "http://img.cdn.aplum.com/FunIsgBs13ORwi-ZUqrWrraG_30T-s320",
+                "brand_name": "Christian Dior",
+                "size": "",
+                "original_price": "3958",
+                "sale_price": "1180",
+                "discount_price": "1180",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FunIsgBs13ORwi-ZUqrWrraG_30T-s320",
+                "rate_original": "3.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2098279,
+                "product_id": 2098279,
+                "name": "黑色复古圆框墨镜",
+                "photo_url": "http://img.cdn.aplum.com/o_1ck29hbeookg8ge1o7d1gib170fg.jpg-s320",
+                "brand_name": "Prada",
+                "size": "",
+                "original_price": "2890",
+                "sale_price": "998",
+                "discount_price": "948",
+                "blackcard_discount": true,
+                "blackcard_price": "910",
+                "origin_discount_text": "3.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "限时再打9.5折",
+                "price_text": "直减50元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ck29hbeookg8ge1o7d1gib170fg.jpg-s320",
+                "rate_original": "3.3折"
+            }
+        ],
+        "13": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 242829,
+                "product_id": 242829,
+                "name": "时尚黑色金属链衣裙套装",
+                "photo_url": "http://img.cdn.aplum.com/o_1c62ednvo1uac1dk71ju71p3h1mki12.jpg-s320",
+                "brand_name": "Elisabetta Franchi",
+                "size": "S",
+                "original_price": "7000",
+                "sale_price": "3520",
+                "discount_price": "1348",
+                "blackcard_discount": true,
+                "blackcard_price": "1294",
+                "origin_discount_text": "1.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.8折",
+                "price_text": "直减2172元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c62ednvo1uac1dk71ju71p3h1mki12.jpg-s320",
+                "rate_original": "1.9折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1159996,
+                "product_id": 1159996,
+                "name": "银色亮面小西装",
+                "photo_url": "http://img.cdn.aplum.com/o_1c9ol83e4be81qvrjkc1c6mkjhj.jpg-s320",
+                "brand_name": "GIADA",
+                "size": "L",
+                "original_price": "8800",
+                "sale_price": "2520",
+                "discount_price": "968",
+                "blackcard_discount": true,
+                "blackcard_price": "929",
+                "origin_discount_text": "1.1折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.8折",
+                "price_text": "直减1552元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c9ol83e4be81qvrjkc1c6mkjhj.jpg-s320",
+                "rate_original": "1.1折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1268077,
+                "product_id": 1268077,
+                "name": "黑色简约logo手拿包",
+                "photo_url": "http://img.cdn.aplum.com/o_1cglveokaa2m1htkmep1m8tlnri.jpg-s320",
+                "brand_name": "Sophie Hulme",
+                "size": "",
+                "original_price": "4169",
+                "sale_price": "1020",
+                "discount_price": "538",
+                "blackcard_discount": true,
+                "blackcard_price": "516",
+                "origin_discount_text": "1.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打5.3折",
+                "price_text": "直减482元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cglveokaa2m1htkmep1m8tlnri.jpg-s320",
+                "rate_original": "1.3折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1191508,
+                "product_id": 1191508,
+                "name": "蓝色女士时尚手镯",
+                "photo_url": "http://img.cdn.aplum.com/o_1cc39p2s8nlt9vf14616b8ai1g.jpg-s320",
+                "brand_name": "Marni",
+                "size": "",
+                "original_price": "4183",
+                "sale_price": "1280",
+                "discount_price": "498",
+                "blackcard_discount": true,
+                "blackcard_price": "478",
+                "origin_discount_text": "1.2折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.9折",
+                "price_text": "直减782元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cc39p2s8nlt9vf14616b8ai1g.jpg-s320",
+                "rate_original": "1.2折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1193720,
+                "product_id": 1193720,
+                "name": "黑色斜襟连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1cb9jvf30120v16sg11gc1bk1bvsh.jpg-s320",
+                "brand_name": "SPORTMAX",
+                "size": "S",
+                "original_price": "4810",
+                "sale_price": "2420",
+                "discount_price": "928",
+                "blackcard_discount": true,
+                "blackcard_price": "890",
+                "origin_discount_text": "1.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.8折",
+                "price_text": "直减1492元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cb9jvf30120v16sg11gc1bk1bvsh.jpg-s320",
+                "rate_original": "1.9折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 148407,
+                "product_id": 148407,
+                "name": "全新蓝紫黑波纹印花连衣裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1c3i6v5gsanj1csf54u1jrvnkvh.jpg-s320",
+                "brand_name": "M Missoni",
+                "size": "S",
+                "original_price": "9200",
+                "sale_price": "3680",
+                "discount_price": "1408",
+                "blackcard_discount": true,
+                "blackcard_price": "1351",
+                "origin_discount_text": "1.5折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.8折",
+                "price_text": "直减2272元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c3i6v5gsanj1csf54u1jrvnkvh.jpg-s320",
+                "rate_original": "1.5折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1252159,
+                "product_id": 1252159,
+                "name": "黄色漆皮鱼嘴高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1cet2c8ll1vjt4pt6h51tafaq5h.jpg-s320",
+                "brand_name": "Salvatore Ferragamo",
+                "size": "36.5",
+                "original_price": "5000",
+                "sale_price": "1280",
+                "discount_price": "498",
+                "blackcard_discount": true,
+                "blackcard_price": "478",
+                "origin_discount_text": "1.0折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.9折",
+                "price_text": "直减782元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cet2c8ll1vjt4pt6h51tafaq5h.jpg-s320",
+                "rate_original": "1.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1192515,
+                "product_id": 1192515,
+                "name": "咖啡色绒面毛边短靴",
+                "photo_url": "http://img.cdn.aplum.com/o_1cb69gr3s1gkq15gv1mia1mhi1qr3h.jpg-s320",
+                "brand_name": "FENDI",
+                "size": "35.5",
+                "original_price": "6280",
+                "sale_price": "2190",
+                "discount_price": "848",
+                "blackcard_discount": true,
+                "blackcard_price": "814",
+                "origin_discount_text": "1.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打3.9折",
+                "price_text": "直减1342元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1cb69gr3s1gkq15gv1mia1mhi1qr3h.jpg-s320",
+                "rate_original": "1.4折"
+            }
+        ],
+        "14": [
+            {
+                "tag_list": [],
+                "id": 1156833,
+                "product_id": 1156833,
+                "name": "黑色纹理感牛皮手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1c9barbd81cjjfvs1m6g1php7clj.jpg?watermark/1/image/aHR0cDovL2ltZy5jZG4uYXBsdW0uY29tL29fMWM4aTBobmdwdTk2NTg4MXA0dnE0cTFla2VoLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0/ws/0.19",
+                "brand_name": "FENDI",
+                "size": "",
+                "original_price": "12000",
+                "sale_price": "5280",
+                "discount_price": "5280",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "4.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c9barbd81cjjfvs1m6g1php7clj.jpg?watermark/1/image/aHR0cDovL2ltZy5jZG4uYXBsdW0uY29tL29fMWM4aTBobmdwdTk2NTg4MXA0dnE0cTFla2VoLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0/ws/0.19",
+                "rate_original": "4.4折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 2015307,
+                "product_id": 2015307,
+                "name": "棕色经典老花贝壳手提包",
+                "photo_url": "http://img.cdn.aplum.com/o_1ci66ilmtgcn1nis12dfpkdp4mi.jpg-s320",
+                "brand_name": "LOUIS VUITTON",
+                "size": "",
+                "original_price": "10178",
+                "sale_price": "3620",
+                "discount_price": "3620",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ci66ilmtgcn1nis12dfpkdp4mi.jpg-s320",
+                "rate_original": "3.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 1257120,
+                "product_id": 1257120,
+                "name": "黑色山茶花吊坠项链",
+                "photo_url": "http://img.cdn.aplum.com/FsPKuveuijuNl07l1h1dflOUN6zo-s320",
+                "brand_name": "CHANEL",
+                "size": "",
+                "original_price": "3047",
+                "sale_price": "2680",
+                "discount_price": "2680",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "7.0折",
+                "in_wishlist": 0,
+                "status": "sold",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FsPKuveuijuNl07l1h1dflOUN6zo-s320",
+                "rate_original": "7.0折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "sale_tag",
+                        "color": "#DEC495",
+                        "text": "特价商品",
+                        "url": ""
+                    }
+                ],
+                "id": 1157740,
+                "product_id": 1157740,
+                "name": "银色串珠优雅手链",
+                "photo_url": "http://img.cdn.aplum.com/o_1c9je1q89155kk938sc1frk1csqg.jpg-s320",
+                "brand_name": "Pandora",
+                "size": "",
+                "original_price": "2790",
+                "sale_price": "2020",
+                "discount_price": "1418",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "5.1折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "特惠再打7.0折",
+                "price_text": "直减602元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c9je1q89155kk938sc1frk1csqg.jpg-s320",
+                "rate_original": "5.1折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "sale_tag",
+                        "color": "#DEC495",
+                        "text": "特价商品",
+                        "url": ""
+                    }
+                ],
+                "id": 233920,
+                "product_id": 233920,
+                "name": "银色荷兰风车串珠手链",
+                "photo_url": "http://img.cdn.aplum.com/o_1c49ecbicd86r90so5rgreb5i.jpg-s320",
+                "brand_name": "Pandora",
+                "size": "",
+                "original_price": "2298",
+                "sale_price": "1780",
+                "discount_price": "1258",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "5.5折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "特惠再打7.1折",
+                "price_text": "直减522元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c49ecbicd86r90so5rgreb5i.jpg-s320",
+                "rate_original": "5.5折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 137529,
+                "product_id": 137529,
+                "name": "穗纹革真皮黑色手提包",
+                "photo_url": "http://img.cdn.aplum.com/FoziF8XdP08AKJ-AtRcGqS49gHfb-s320",
+                "brand_name": "LOUIS VUITTON",
+                "size": "",
+                "original_price": "8884",
+                "sale_price": "6090",
+                "discount_price": "6090",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "6.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FoziF8XdP08AKJ-AtRcGqS49gHfb-s320",
+                "rate_original": "6.9折"
+            },
+            {
+                "tag_list": [],
+                "id": 1232428,
+                "product_id": 1232428,
+                "name": "棕色经典格纹小箱包",
+                "photo_url": "http://img.cdn.aplum.com/o_1ce3q03mg1ov01ludf3lqse1tani.jpg-s320",
+                "brand_name": "Burberry",
+                "size": "",
+                "original_price": "9002",
+                "sale_price": "4820",
+                "discount_price": "4820",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "5.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1ce3q03mg1ov01ludf3lqse1tani.jpg-s320",
+                "rate_original": "5.4折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 231603,
+                "product_id": 231603,
+                "name": "金黄色珠母项链",
+                "photo_url": "http://img.cdn.aplum.com/FkHMEwt_PgPrRWPq8_hR9iUSzkVS-s320",
+                "brand_name": "BVLGARI",
+                "size": "",
+                "original_price": "13098",
+                "sale_price": "13420",
+                "discount_price": "13420",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FkHMEwt_PgPrRWPq8_hR9iUSzkVS-s320",
+                "rate_original": "折"
+            }
+        ],
+        "15": [
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 142204,
+                "product_id": 142204,
+                "name": " 香槟金双C标志长款项链",
+                "photo_url": "http://img.cdn.aplum.com/FpH1zJ6ZXb8H0wIXmXWwMSk8wsIY-s320",
+                "brand_name": "CHANEL",
+                "size": "",
+                "original_price": "5375",
+                "sale_price": "5020",
+                "discount_price": "5020",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "9.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FpH1zJ6ZXb8H0wIXmXWwMSk8wsIY-s320",
+                "rate_original": "9.3折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 251317,
+                "product_id": 251317,
+                "name": "金属米色菱格纹链条钱包",
+                "photo_url": "http://img.cdn.aplum.com/Fkcj7x7Ze18QprzYocc8BGYkdIqo-s320",
+                "brand_name": "CHANEL",
+                "size": "",
+                "original_price": "19192",
+                "sale_price": "16120",
+                "discount_price": "16120",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "8.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/Fkcj7x7Ze18QprzYocc8BGYkdIqo-s320",
+                "rate_original": "8.4折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 1160445,
+                "product_id": 1160445,
+                "name": "黑色简约百搭高跟鞋",
+                "photo_url": "http://img.cdn.aplum.com/o_1c9qvffeb1pj41ku7i8fktdmju10.jpg-s320",
+                "brand_name": "Moussy",
+                "size": "35",
+                "original_price": "1198",
+                "sale_price": "468",
+                "discount_price": "188",
+                "blackcard_discount": true,
+                "blackcard_price": "180",
+                "origin_discount_text": "1.6折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打4.0折",
+                "price_text": "直减280元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c9qvffeb1pj41ku7i8fktdmju10.jpg-s320",
+                "rate_original": "1.6折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 129114,
+                "product_id": 129114,
+                "name": "白金色提花环形耳夹",
+                "photo_url": "http://img.cdn.aplum.com/Fp301B22LB0rnFuy_Nii3HxeGBuO-s320",
+                "brand_name": "CHANEL",
+                "size": "",
+                "original_price": "12849",
+                "sale_price": "11120",
+                "discount_price": "11120",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "8.7折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/Fp301B22LB0rnFuy_Nii3HxeGBuO-s320",
+                "rate_original": "8.7折"
+            },
+            {
+                "tag_list": [],
+                "id": 251195,
+                "product_id": 251195,
+                "name": "茶色镜片简约墨镜",
+                "photo_url": "http://img.cdn.aplum.com/FjYCrax8KDd4_20sLzXwvb-RpdR--s320",
+                "brand_name": "Gianni Versace",
+                "size": "",
+                "original_price": "2435",
+                "sale_price": "938",
+                "discount_price": "938",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "3.9折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "wait",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/FjYCrax8KDd4_20sLzXwvb-RpdR--s320",
+                "rate_original": "3.9折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    }
+                ],
+                "id": 102959,
+                "product_id": 102959,
+                "name": "黑色双插袋皮衣外套",
+                "photo_url": "http://img.cdn.aplum.com/o_1c269pdeg6m214fu17ei1hqt4f6c.jpg-s320",
+                "brand_name": "Ralph Lauren",
+                "size": "S",
+                "original_price": "5680",
+                "sale_price": "2488",
+                "discount_price": "2488",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "4.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "tochoose",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "",
+                "price_text": "",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c269pdeg6m214fu17ei1hqt4f6c.jpg-s320",
+                "rate_original": "4.4折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "满减",
+                        "url": ""
+                    },
+                    {
+                        "type": "active_tag",
+                        "color": "#D93644",
+                        "text": "限时折扣",
+                        "url": ""
+                    },
+                    {
+                        "type": "black_tag",
+                        "color": "",
+                        "text": "",
+                        "url": "http://img.cdn.aplum.com/o_1cldvi6hadfesv51eat1omn8qim.png"
+                    }
+                ],
+                "id": 2055572,
+                "product_id": 2055572,
+                "name": "正红色蝴蝶结露背小礼裙",
+                "photo_url": "http://img.cdn.aplum.com/o_1c46oocaeguoqp8nhdi1pp4nh.jpg-s320",
+                "brand_name": "Maje",
+                "size": "M",
+                "original_price": "3000",
+                "sale_price": "480",
+                "discount_price": "398",
+                "blackcard_discount": true,
+                "blackcard_price": "382",
+                "origin_discount_text": "1.3折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "http://img.cdn.aplum.com/o_1cntv0kff49o1qff1d591e7817ctm.png",
+                "formatFrom": "new",
+                "discount_text": "大促再打8.3折",
+                "price_text": "直减82元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c46oocaeguoqp8nhdi1pp4nh.jpg-s320",
+                "rate_original": "1.3折"
+            },
+            {
+                "tag_list": [
+                    {
+                        "type": "sale_tag",
+                        "color": "#DEC495",
+                        "text": "特价商品",
+                        "url": ""
+                    }
+                ],
+                "id": 1280419,
+                "product_id": 1280419,
+                "name": "浅粉色鲜花双C标志项链",
+                "photo_url": "http://img.cdn.aplum.com/o_1c9h06l87sppger10d2ep31q62c.jpg-s320",
+                "brand_name": "CHANEL",
+                "size": "",
+                "original_price": "2435",
+                "sale_price": "2520",
+                "discount_price": "2278",
+                "blackcard_discount": false,
+                "blackcard_price": "",
+                "origin_discount_text": "9.4折",
+                "in_wishlist": 0,
+                "status": "onsale",
+                "treatment": "discount",
+                "act_img": "",
+                "formatFrom": "new",
+                "discount_text": "特惠再打9.0折",
+                "price_text": "直减242元",
+                "video_frame_url": "http://img.cdn.aplum.com/o_1c9h06l87sppger10d2ep31q62c.jpg-s320",
+                "rate_original": "9.4折"
+            }
+        ],
+        "cache_msg": "",
+        "pager": {
+            "total": 0,
+            "current": 2
+        }
+    }
+}

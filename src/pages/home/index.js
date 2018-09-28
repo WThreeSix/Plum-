@@ -1,5 +1,7 @@
 import React,{Component} from 'react'
 // import { Button } from 'antd-mobile'
+import {Route,Switch,withRouter} from 'react-router-dom'
+import {connect} from 'react-redux'
 import './style.scss'
 import { TabBar } from 'antd-mobile';
 import home from '../../assets/iconfont/home.png'
@@ -12,12 +14,32 @@ import buycal from '../../assets/iconfont/buycal.png'
 import buycalActive from '../../assets/iconfont/buycalActive.png'
 import my from '../../assets/iconfont/my.png'
 import myActive from '../../assets/iconfont/myActive.png'
-
+import ClassType from '../classType'
+import My from '../my'
+import Sell from '../sell'
+import BuyCar from '../buyCar'
+import Nologin from '../onlogin'
+import Goodslist from '../classType/marketing/goodlist'
+const tabState = state=>{
+  return {
+    storeTab:state
+  }
+}
+const tabDispatch = dispatch=>{
+  return {
+    changetab:(payload)=>{
+      dispatch({
+        type:"CHANGETAB",
+        payload
+      })
+    }
+  }
+}
 class Home extends Component{
     constructor(props) {
         super(props);
         this.state = {
-          selectedTab: 'homeTab',
+          selectedTab: this.props.storeTab.home.selectedTab,
           hidden: false,
           fullScreen: false,
         };
@@ -55,9 +77,13 @@ class Home extends Component{
                   this.setState({
                     selectedTab: 'classTab',
                   });
+                  this.props.history.push("/home/classtype")
                 }}
               >
-                {/* <ClassType/> */}
+                <Switch>
+                  <Route path="/home/classtype" exact component={ClassType}/>
+                  <Route path="/home/goodslist" component={Goodslist}/>
+                </Switch>
               </TabBar.Item>
               <TabBar.Item
                 icon={{ uri: sell}}
@@ -71,7 +97,7 @@ class Home extends Component{
                   });
                 }}
               >
-                {/* <Sell/> */}
+                <Sell/>
               </TabBar.Item>
               <TabBar.Item
                 icon={{ uri: buycal }}
@@ -83,9 +109,18 @@ class Home extends Component{
                   this.setState({
                     selectedTab: 'buycarTab',
                   });
+                  if(localStorage.phone===undefined){
+                    this.props.history.push("/home/nologin")
+                    
+                  }else{
+                    this.props.history.push("/home/buycar")
+                  }
                 }}
               >
-               {/* <BuyCar/> */}
+                <Switch>
+                  <Route path="/home/buycar" exact component={BuyCar}/>
+                  <Route path="/home/nologin" exact component={Nologin}/>
+                </Switch>
               </TabBar.Item>
               <TabBar.Item
                 icon={{ uri: my }}
@@ -99,10 +134,13 @@ class Home extends Component{
                   });
                 }}
               >
-               {/* <My/> */}
+               <My/>
               </TabBar.Item>
             </TabBar>
         );
       }
+      changeTab(){
+
+      }
 }
-export default Home
+export default withRouter(connect(tabState,tabDispatch)(Home))

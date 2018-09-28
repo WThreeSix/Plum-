@@ -11,82 +11,98 @@
 					"banner": {
 						"src": "http://img.cdn.aplum.com/o_1cgb36asp5446701mkt1rq15ot7.png",
 						"url": "/product/index?actid=260"
+						
 					},
 					"items": [
 						{
 							"name": "Plum小姐精选",
 							"src": "http://img.cdn.aplum.com/o_1chv9t8ub10dqhdo1jkp157r5f07.png",
-							"url": "/product/index?actid=552&viewFrom=suggestion"
+							"url": "/product/index?actid=552&viewFrom=suggestion",
+							"id":"1"
 						},
 						{
 							"name": "Vintage",
 							"src": "http://img.cdn.aplum.com/o_1c852mtg18dhg2a1ggdun3r5l7.jpeg",
-							"url": "/product/index?bid=150&viewFrom=suggestion"
+							"url": "/product/index?bid=150&viewFrom=suggestion",
+							"id":"2"
 						},
 						{
 							"name": "日本直邮",
 							"src": "http://img.cdn.aplum.com/o_1ca30sgtl1qn5ohjqet1aul1r2r7.png",
-							"url": "/product/index?allJapan=1&viewFrom=suggestion"
+							"url": "/product/index?allJapan=1&viewFrom=suggestion",
+							"id":"3"
 						},
 						{
 							"name": "单肩包",
 							"src": "http://img.cdn.aplum.com/o_1c57tc4k11t0e16hu1mdu1b924ph.png",
-							"url": "/product/index?show_id=10&viewFrom=suggestion"
+							"url": "/product/index?show_id=10&viewFrom=suggestion",
+							"id":"4"
 						},
 						{
 							"name": "连衣裙",
 							"src": "http://img.cdn.aplum.com/o_1cdep9vnppd4s1cleiqou1df77.png",
-							"url": "/product/index?show_id=21"
+							"url": "/product/index?show_id=21",
+							"id":"5"
 						},
 						{
 							"name": "高跟鞋",
 							"src": "http://img.cdn.aplum.com/o_1cct466uu10vfhd21ior1o0u13gd7.png",
-							"url": "/product/index?show_id=15"
+							"url": "/product/index?show_id=15",
+							"id":"6"
 						},
 						{
 							"name": "手提包",
 							"src": "http://img.cdn.aplum.com/o_1c5aqbfrn1oid1mj3v2dbpv1pcq15.png",
-							"url": "/product/index?show_id=12&viewFrom=suggestion"
+							"url": "/product/index?show_id=12&viewFrom=suggestion",
+							"id":"7"
 						},
 						{
 							"name": "男装",
 							"src": "http://img.cdn.aplum.com/o_1ci6a6fse73d5qb1va4tdf9tm7.png",
-							"url": "/product/index?show_id=28&viewFrom=suggestion"
+							"url": "/product/index?show_id=28&viewFrom=suggestion",
+							"id":"8"
 						},
 						{
 							"name": "斜挎包",
 							"src": "http://img.cdn.aplum.com/o_1c57tc4k218f8rm797n1525eu8l.png",
-							"url": "/product/index?show_id=11&viewFrom=suggestion"
+							"url": "/product/index?show_id=11&viewFrom=suggestion",
+							"id":"9"
 						},
 						{
 							"name": "项链",
 							"src": "http://img.cdn.aplum.com/o_1c57tc4k21hnq1fbf104qlhjba0k.png",
-							"url": "/product/index?show_id=18&viewFrom=suggestion"
+							"url": "/product/index?show_id=18&viewFrom=suggestion",
+							"id":"10"
 						},
 						{
 							"name": "手表",
 							"src": "http://img.cdn.aplum.com/o_1caie0b7l13s41ene18tp1ss61t2n7.png",
-							"url": "/product/index?show_id=27&viewFrom=suggestion"
+							"url": "/product/index?show_id=27&viewFrom=suggestion",
+							"id":"11"
 						},
 						{
 							"name": "墨镜",
 							"src": "http://img.cdn.aplum.com/o_1caie25ifubrm531q0l1b2vq5g7.png",
-							"url": "/product/index?show_id=29&viewFrom=suggestion"
+							"url": "/product/index?show_id=29&viewFrom=suggestion",
+							"id":"12"
 						},
 						{
 							"name": "高性价比",
 							"src": "http://img.cdn.aplum.com/o_1c67d80572fqo5cj67ahnrhdg.png",
-							"url": "/product/index?view_tag=bargain&viewFrom=suggestion"
+							"url": "/product/index?view_tag=bargain&viewFrom=suggestion",
+							"id":"13"
 						},
 						{
 							"name": "热门单品",
 							"src": "http://img.cdn.aplum.com/o_1c69389kea7s9cm1nap1d401930c.png",
-							"url": "/product/index?view_tag=hot&viewFrom=suggestion"
+							"url": "/product/index?view_tag=hot&viewFrom=suggestion",
+							"id":"14"
 						},
 						{
 							"name": "编辑精选",
 							"src": "http://img.cdn.aplum.com/o_1c67d8057g2laslidr1o2vdb1e.png",
-							"url": "/product/index?view_tag=staff_like&viewFrom=suggestion"
+							"url": "/product/index?view_tag=staff_like&viewFrom=suggestion",
+							"id":"15"
 						}
 					]
 				}

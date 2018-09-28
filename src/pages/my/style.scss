@@ -1,0 +1,119 @@
+.heand-f{
+    height: 0.7rem;
+    width: 100%;
+    background: #D93644;
+    position: relative;
+}
+.heand-p{
+    height: 0.7rem;
+    width: 90%;
+    background: white;
+    position: absolute;
+    top: 0.1rem;
+    left: 5%;
+}
+.imgs{
+    width: 16%;
+    float: left;
+    margin:4.9%;
+}
+.dats{
+    float: left;
+    margin-top: 4.9%;
+    .name{
+        font-size: 0.16rem
+    }
+    .edit{
+        color: #ddd;
+    }
+}
+.one::after {
+    position: absolute;
+    right: .1rem;
+    top: 0;
+    content: '';
+    width: 0.15rem;
+    height: 100%;
+    background: transparent url(http://img.cdn.aplum.com/o_1cjl5m33j163pbpj1m37qh8o8ef.png) no-repeat center;
+    background-size: 100% auto;
+}
+.one,.two{
+    overflow: hidden;
+}
+.two{
+    background: transparent url(http://img.cdn.aplum.com/o_1chn6asuu1v2ci1v9neir10rr.png) no-repeat center;
+    background-size: cover;
+    .icon {
+        background: url(http://img.cdn.aplum.com/o_1chn6n75bb1c1go8baq307uf10.png) no-repeat center;
+        background-size: 100% 100%;
+        width: 0.8rem;
+        height: 0.15rem;
+       float: left;
+       margin: 0.1rem 0.2rem 0 0.2rem;
+    }
+    .tip{
+       float: left;
+       line-height: 0.35rem;
+        color: white;
+        .gold{
+            color: #FFDAA6;
+        }
+    }
+}
+.sectionincome{
+    margin-top: 0.6rem;
+    margin-bottom: 0.15rem;
+    overflow: hidden;
+    border-bottom: 1px solid #E6E1E1;
+    padding: 0 5%;
+    .name{
+        float: left;
+        margin-bottom: 0.15rem;
+    }
+    .tips{
+        float: right;
+        margin-bottom: 0.15rem;
+    }
+}
+.list{
+    display: flex;
+    justify-content:space-around;
+    margin-top:0.15rem;
+    margin-bottom: 0.15rem;
+    li div{
+        margin-bottom: 0.1rem;
+    }
+    .iconBuy{
+        width: 0.2rem;
+        height:0.2  rem;
+    }
+    li{
+        text-align: center;
+        .title{
+            font-size: 0.1rem
+        }
+    }
+   
+}
+.sectionbuyer .name{
+    margin-left: 5%
+}
+.sectionbuyer{
+    border-bottom: 1px solid #E6E1E1;
+    overflow: hidden;
+}
+.header{
+    margin-top:0.15rem;
+}
+.sectionserver .name{
+    margin-left: 5%
+}
+.sectionserver .list{
+    flex-wrap: wrap;
+    li{
+        width: 25%;    
+    }
+    li:nth-of-type(1){
+        margin-bottom: 0.1rem;
+    }
+}
